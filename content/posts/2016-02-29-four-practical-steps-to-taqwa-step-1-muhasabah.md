@@ -24,7 +24,7 @@ The first practical step to gaining taqwa is accountability, known as _muhasabah
 
 In Surah Al-Hashr, Allah says:
 
-> يا ايها الذين امنوا اتقوا الله ولتنظر نفس ما قدمت لغد واتقوا الله ان الله خبير بما تعملون 
+<p class="quran">يا ايها الذين امنوا اتقوا الله ولتنظر نفس ما قدمت لغد واتقوا الله ان الله خبير بما تعملون </p>
 
 **Translation:** O you who have believed, fear Allah . **And let every soul look to what it has put forth for tomorrow** &#8211; and fear Allah . Indeed, Allah is Acquainted with what you do. ([Surah Hashr, verse 18][3])
 
@@ -61,7 +61,7 @@ From the Qur&#8217;an and Sunnah, we find a suggested order of accountability:
 
 In order to progress, you need to take one step forward, and not slide two steps backward. Scholars use this hadith:
 
-> مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلَافُهُمْ عَلَى أَنْبِيَائِهِمْ 
+<p class="hadith"> مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ وَاخْتِلَافُهُمْ عَلَى أَنْبِيَائِهِمْ </p>
 
 **Translation:** _What I have forbidden for you, avoid. What I have ordered you [to do], do as much of it as you can._ For verily, it was only the excessive questioning and their disagreeing with their Prophets that destroyed [the nations] who were before you. (Bukhari, Muslim, and [Imam Nawawi&#8217;s 40 ahadith, #9][5])
 
@@ -82,7 +82,7 @@ If you make a mistake or slip up, if you violate a prohibition, what then? **Mak
 
 After prohibitions, we focus next on obligations. Another interesting, supporting hadith:
 
-> إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ مِنْ عَمَلِهِ صَلاَتُهُ فَإِنْ صَلُحَتْ فَقَدْ أَفْلَحَ وَأَنْجَحَ وَإِنْ فَسَدَتْ فَقَدْ خَابَ وَخَسِرَ فَإِنِ انْتَقَصَ مِنْ فَرِيضَتِهِ شَيْءٌ قَالَ الرَّبُّ عَزَّ وَجَلَّ انْظُرُوا هَلْ لِعَبْدِي مِنْ تَطَوُّعٍ فَيُكَمَّلَ بِهَا مَا انْتَقَصَ مِنَ الْفَرِيضَةِ ثُمَّ يَكُونُ سَائِرُ عَمَلِهِ عَلَى ذَلِكَ 
+<p class="hadith"> إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ مِنْ عَمَلِهِ صَلاَتُهُ فَإِنْ صَلُحَتْ فَقَدْ أَفْلَحَ وَأَنْجَحَ وَإِنْ فَسَدَتْ فَقَدْ خَابَ وَخَسِرَ فَإِنِ انْتَقَصَ مِنْ فَرِيضَتِهِ شَيْءٌ قَالَ الرَّبُّ عَزَّ وَجَلَّ انْظُرُوا هَلْ لِعَبْدِي مِنْ تَطَوُّعٍ فَيُكَمَّلَ بِهَا مَا انْتَقَصَ مِنَ الْفَرِيضَةِ ثُمَّ يَكُونُ سَائِرُ عَمَلِهِ عَلَى ذَلِكَ </p>
 
 **Translation:** Indeed the first deed by which a servant will be called to account on the Day of Resurrection is his Salat. If it is complete, he is successful and saved, but if it is defective, he has failed and lost. So if something is deficient in his obligatory (prayers) then the Lord, Mighty and Sublime says: &#8216;Look! Are there any voluntary (prayers) for my worshipper?&#8217; So with them, what was deficient in his obligatory (prayers) will be completed. Then the rest of his deeds will be treated like that.&#8221; ([Jami&#8217; At-Tirmidhi][6])
 
@@ -94,7 +94,7 @@ This hadith indicates that we will be asked about our _obligations first_, and i
 
 Out of these three, the tongue overshadows the other two _by far_. Rasulullah (salallahu alayhi wa sallam) said:
 
-> مَنْ يَضْمَنْ لِي مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ 
+<p class="hadith"> مَنْ يَضْمَنْ لِي مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ </p>
 
 **Translation:** Allah&#8217;s Messenger (ﷺ) said, &#8220;Whoever can guarantee (the chastity of) what is between his two jaw-bones and what is between his two legs (i.e. his tongue and his private parts), I guarantee Paradise for him.&#8221; ([Saheeh Bukhari][7])
 
