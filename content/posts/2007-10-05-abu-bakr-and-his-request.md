@@ -21,16 +21,16 @@ What do you make of the amazing incident when the best of the sahaba (رضالل
 > <p align="left">
 >   Narrated Abu Bakr As-Siddiq (رضالله عنه)
 > </p>
-> 
-> <p align="left">
+
+>  <p align="left">
 >   I asked Allah&#8217;s Apostle (صلي الله عليه وسلم) to teach me an invocation so that I may invoke Allah with it in my prayer. He told me to say,
 > </p>
-> 
-> <p style="text-align: center">
+
+>  <p style="text-align: center">
 >   <img src='/wp-content/uploads/dua-abubakr.gif' alt='Abu Bakr’s Du’a' />
 > </p>
-> 
-> <p align="left">
+
+>  <p align="left">
 >   [Sahih Bukhari]
 > </p>
 

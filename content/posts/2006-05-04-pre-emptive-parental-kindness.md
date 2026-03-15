@@ -42,15 +42,15 @@ You can also check out this [awesome SoundVision article][3] on the mothers spec
 </div>
 
 <p class="reference">
-  (1) Muhammad, Pickthall M., trans. “Al-Ankaboot (The Spider).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 4 May 2006 <<a href="http://www.oneummah.net/quran/29.htm">http://www.oneummah.net/quran/29.htm</a>>.
+  (1) Muhammad, Pickthall M., trans. “Al-Ankaboot (The Spider).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 4 May 2006 <<a href="http://www.oneummah.net/quran/29.htm">http://www.oneummah.net/quran/29.htm</a>.
 </p>
 
 <p class="reference">
-  (2) “Translation of Sahih Bukhari, Book 73: Good Manners and Form (Al-Adab).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 4 May 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/073.sbt.html#008.073.002">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/073.sbt.html#008.073.002</a>>
+  (2) “Translation of Sahih Bukhari, Book 73: Good Manners and Form (Al-Adab).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 4 May 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/073.sbt.html#008.073.002">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/073.sbt.html#008.073.002</a>
 </p>
 
 <p class="reference">
-  (3) &#8220;The Quran and Hadith on Mothers.&#8221; <u>Islamic Information & Products &#8211; SoundVision.Com Home!</u> 4 May 2006 <<a href="http://www.soundvision.com/Info/mothers/inquran&#038;hadith.asp">http://www.soundvision.com/Info/mothers/inquran&hadith.asp</a>>.
+  (3) &#8220;The Quran and Hadith on Mothers.&#8221; <u>Islamic Information & Products &#8211; SoundVision.Com Home!</u> 4 May 2006 <<a href="http://www.soundvision.com/Info/mothers/inquran&#038;hadith.asp">http://www.soundvision.com/Info/mothers/inquran&hadith.asp</a>.
 </p>
 
  [1]: http://www.oneummah.net/quran/29.htm

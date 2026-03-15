@@ -30,5 +30,5 @@ So seek protection in Allah from shirk, the unforgivable sin that destroys good 
 </div>
 
 <p class="reference">
-  <u>Fortress of a Muslim</u>. <u>Islam Awareness Homepage</u>. 20 Jan. 2006 <<a href="http://www.islamawareness.net/Dua/Fortress/092.html">http://www.islamawareness.net/Dua/Fortress/092.html</a>>.
+  <u>Fortress of a Muslim</u>. <u>Islam Awareness Homepage</u>. 20 Jan. 2006 <<a href="http://www.islamawareness.net/Dua/Fortress/092.html">http://www.islamawareness.net/Dua/Fortress/092.html</a>.
 </p>

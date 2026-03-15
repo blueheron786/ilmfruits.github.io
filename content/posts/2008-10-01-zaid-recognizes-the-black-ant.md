@@ -65,5 +65,5 @@ Lastly, if you discover that you are doing good deeds only in public, and doing 
 </div>
 
 <p class="reference">
-  Qadhi, Yasir. &#8220;Riyaa: the Hidden Shirk.&#8221; Islamic Network. 16 June 2008 <<a href="http://islaam.net/main/display.php?id=1125&category=12">http://islaam.net/main/display.php?id=1125&category=12</a>>.
+  Qadhi, Yasir. &#8220;Riyaa: the Hidden Shirk.&#8221; Islamic Network. 16 June 2008 <<a href="http://islaam.net/main/display.php?id=1125&category=12">http://islaam.net/main/display.php?id=1125&category=12</a>.
 </p>

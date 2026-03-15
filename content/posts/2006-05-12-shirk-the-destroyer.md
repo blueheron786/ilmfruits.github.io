@@ -92,7 +92,7 @@ May Allah protect us all from the evils of shirk, in our intentions and our acti
 </div>
 
 <p class="reference">
-  (1) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>>.
+  (1) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>.
 </p>
 
 <p class="reference">

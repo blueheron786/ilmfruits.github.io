@@ -53,11 +53,11 @@ May Allah (سبحانه وتعالى) protect us from all kinds of shirk, large 
 </div>
 
 <p class="reference">
-  (1) Shakir, trans. “Al-E-Imran (The Family of Imran).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 19 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/051.qmt.html" /><a href="http://www.usc.edu/dept/MSA/quran/003.qmt.html">http://www.usc.edu/dept/MSA/quran/003.qmt.html</a>>.
+  (1) Shakir, trans. “Al-E-Imran (The Family of Imran).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 19 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/051.qmt.html" /><a href="http://www.usc.edu/dept/MSA/quran/003.qmt.html">http://www.usc.edu/dept/MSA/quran/003.qmt.html</a>.
 </p>
 
 <p class="reference">
-  (2) Muhammad, Pickthall M., trans. “Al-Mulk (The Sovereignty).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 19 Apr. 2006 <<a href="http://www.oneummah.net/quran/67.htm">http://www.oneummah.net/quran/67.htm</a>>.
+  (2) Muhammad, Pickthall M., trans. “Al-Mulk (The Sovereignty).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 19 Apr. 2006 <<a href="http://www.oneummah.net/quran/67.htm">http://www.oneummah.net/quran/67.htm</a>.
 </p>
 
 <p class="reference">

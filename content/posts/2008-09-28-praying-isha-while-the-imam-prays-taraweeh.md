@@ -46,7 +46,7 @@ For the full story, read the [Islam QA Fatwa][4] on this topic.
   References
 </div>
 
-&#8220;Praying ‘Isha’ behind someone who is praying Taraweeh or Witr.&#8221; Islam Question and Answer. 2 Sept. 2008 <<http://islamqa.com/en/ref/79136>>.
+&#8220;Praying ‘Isha’ behind someone who is praying Taraweeh or Witr.&#8221; Islam Question and Answer. 2 Sept. 2008 <<http://islamqa.com/en/ref/79136>.
 
 Abdul-Bary Yahya. Lecture. AlMaghrib. The Purification Act. University of Toronto, Toronto. November 2006.
 

@@ -71,7 +71,7 @@ May Allah increase our eman and protect us from kufr, shirk, and nifaq.
 </div>
 
 <p class="reference">
-  (1) Al-Oadah, Salman. &#8220;Mistakes.&#8221; <u>Islamtoday.Com</u>. 25 Mar. 2006 <<a href="http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&#038;sub_cat_id=777">http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&sub_cat_id=777</a>>.
+  (1) Al-Oadah, Salman. &#8220;Mistakes.&#8221; <u>Islamtoday.Com</u>. 25 Mar. 2006 <<a href="http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&#038;sub_cat_id=777">http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&sub_cat_id=777</a>.
 </p>
 
 <p class="reference">

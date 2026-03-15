@@ -65,7 +65,7 @@ When Allah (سبحانه وتعالى) mentions himself as the Lord of Musa or t
 </div>
 
 <p class="reference">
-  (1) Muhammad, Pickthall M., trans. “Al-Baqarah (The Cow).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 27 Apr. 2006 <<a href="http://www.oneummah.net/quran/02.htm">http://www.oneummah.net/quran/02.htm</a><a href="http://www.oneummah.net/quran/03.htm" />>.
+  (1) Muhammad, Pickthall M., trans. “Al-Baqarah (The Cow).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 27 Apr. 2006 <<a href="http://www.oneummah.net/quran/02.htm">http://www.oneummah.net/quran/02.htm</a><a href="http://www.oneummah.net/quran/03.htm" />.
 </p>
 
 <p class="reference">

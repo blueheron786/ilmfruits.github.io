@@ -28,5 +28,5 @@ And to cap our discussion, Ibn Taymiyyah (rahimahullaah) said:&#8221;Everything 
 </div>
 
 <p class="reference">
-  Shaykh Abdul&#8217;azeez Bin Baz. &#8220;The Evils of Nationalism.&#8221; <u>Islamworld</u>. <<a href="http://www.islamworld.net/nation.html">http://www.islamworld.net/nation.html</a>>.
+  Shaykh Abdul&#8217;azeez Bin Baz. &#8220;The Evils of Nationalism.&#8221; <u>Islamworld</u>. <<a href="http://www.islamworld.net/nation.html">http://www.islamworld.net/nation.html</a>.
 </p>

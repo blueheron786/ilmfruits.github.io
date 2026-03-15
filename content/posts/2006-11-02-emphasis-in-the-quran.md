@@ -76,5 +76,5 @@ If you know any more forms of emphasis in the Qur&#8217;an, post them in the com
 </div>
 
 <p class="reference">
-  Yasir Qadhi. &#8220;Kitab At-Tawheed (Chapter 2).&#8221; 2 Nov. 2006 <<a href="http://www.lightuponlight.com/islam/modules.php?name=Downloads&#038;d_op=getit&#038;lid=709">http://www.lightuponlight.com/islam/modules.php?name=Downloads&d_op=getit&lid=709</a>>
+  Yasir Qadhi. &#8220;Kitab At-Tawheed (Chapter 2).&#8221; 2 Nov. 2006 <<a href="http://www.lightuponlight.com/islam/modules.php?name=Downloads&#038;d_op=getit&#038;lid=709">http://www.lightuponlight.com/islam/modules.php?name=Downloads&d_op=getit&lid=709</a>
 </p>

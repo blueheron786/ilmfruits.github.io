@@ -50,7 +50,7 @@ Asalamu &#8216;alaikum!
   And so, of the Names which belong to Allah is <em>as-Samad. </em>Ibn &#8216;Abbas radhiAllah anhu is reported to have said in regards to meaning of <em>as-Samad</em>:
 </p>
 
-> <p style="text-align: left;">
+><p style="text-align: left;">
 >   <strong><em>“He is the Master [as-Sayyid] who is perfect in His sovereignty, the Most Noble [ash-Shareef] who is perfect in His nobility, the Most Magnificent [al-‘Azeem] who is perfect in His magnificence, the Most Forbearing [al-Haleem] who is perfect in His forbearance, the All-Knowing [al-&#8216;Aleem] who is perfect in His knowledge, and the Most Wise [al-Hakeem] who is perfect in His wisdom.”</em></strong>
 > </p>
 

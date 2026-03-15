@@ -45,11 +45,11 @@ The end result? The mu&#8217;min is content even before he leaves this world. An
 </div>
 
 <p class="reference">
-  (1) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 25 Mar. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (1) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 25 Mar. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">
-  (2) &#8220;Sahih Muslim Chapter 177: Closing the Eyes of the Dead and Supplication For Him on Visitng Him.&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. University of Southern California. 27 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.2005">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.2005</a>>.
+  (2) &#8220;Sahih Muslim Chapter 177: Closing the Eyes of the Dead and Supplication For Him on Visitng Him.&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. University of Southern California. 27 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.2005">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.2005</a>.
 </p>
 
 <p class="reference">

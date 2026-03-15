@@ -37,7 +37,7 @@ May Allah (سبحانه وتعالى) give us a proper understanding of this piv
 </div>
 
 <p class="reference">
-  (1) “Translation of Sahih Bukhari, Book 24: Obligatory Charity Tax (Zakat).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 6 July 2006 <<a href="http://quran.islamicnetwork.com/" /><a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/024.sbt.html#002.024.573">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/024.sbt.html#002.024.573</a>>.
+  (1) “Translation of Sahih Bukhari, Book 24: Obligatory Charity Tax (Zakat).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 6 July 2006 <<a href="http://quran.islamicnetwork.com/" /><a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/024.sbt.html#002.024.573">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/024.sbt.html#002.024.573</a>.
 </p>
 
 <p class="reference">

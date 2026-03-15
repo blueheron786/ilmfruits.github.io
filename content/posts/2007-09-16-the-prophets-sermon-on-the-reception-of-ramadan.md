@@ -46,5 +46,5 @@ He (صلي الله عليه وسلم) continues, &#8220;one who has good morals
 </div>
 
 <p class="reference">
-  &#8220;The Prophet&#8217;s Sermon About Ramadan.&#8221; In the Name of Allah,the Most Beneficent, the Most Merciful. 22 Nov. 2001. 13 Sept. 2007 <<a href="http://www.iit.edu/~syednoo/ramadansermon.htm">http://www.iit.edu/~syednoo/ramadansermon.htm</a>>.
+  &#8220;The Prophet&#8217;s Sermon About Ramadan.&#8221; In the Name of Allah,the Most Beneficent, the Most Merciful. 22 Nov. 2001. 13 Sept. 2007 <<a href="http://www.iit.edu/~syednoo/ramadansermon.htm">http://www.iit.edu/~syednoo/ramadansermon.htm</a>.
 </p>

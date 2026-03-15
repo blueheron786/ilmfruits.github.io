@@ -37,11 +37,11 @@ May Allah (سبحانه وتعالى) allow us to make the best use of the bless
 </div>
 
 <p class="reference">
-  (1) “Translation of Sahih Muslim, Book 4: The Book of Prayers (Kitab Al-Salat), Chapter 152: Excellence of Friday.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 24 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.1857">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.1857</a>>.
+  (1) “Translation of Sahih Muslim, Book 4: The Book of Prayers (Kitab Al-Salat), Chapter 152: Excellence of Friday.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 24 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.1857">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/004.smt.html#004.1857</a>.
 </p>
 
 <p class="reference">
-  (2) “Translation of Sahih Bukhari, Book 21: Prayer at Night (Tahajjud).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 24 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.246">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.246</a>>.
+  (2) “Translation of Sahih Bukhari, Book 21: Prayer at Night (Tahajjud).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 24 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.246">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.246</a>.
 </p>
 
 <p class="reference">

@@ -72,7 +72,7 @@ For more information on your Hajj Du&#8217;a list, check out the video below, co
 </div>
 
 <p class="reference">
-  Prepare a MASSIVE Dua List. Perf. Muhammad Alshareef. 2007. HajjCoach.Com. 21 Nov. 2007 <<a href="http://youtube.com/watch?v=znaAS26jkpk">http://youtube.com/watch?v=znaAS26jkpk</a>>.
+  Prepare a MASSIVE Dua List. Perf. Muhammad Alshareef. 2007. HajjCoach.Com. 21 Nov. 2007 <<a href="http://youtube.com/watch?v=znaAS26jkpk">http://youtube.com/watch?v=znaAS26jkpk</a>.
 </p>
 
  [1]: http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/010.sat.html#010.1944

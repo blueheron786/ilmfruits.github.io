@@ -92,27 +92,27 @@ May Allah increase us all in our knowledge and in the benefit we bring to the so
 </div>
 
 <p class="reference">
-  (1) “Translation of Sahih Bukhari, Book 92: Holding Fast to the Qur&#8217;an and Sunnah.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 26 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/092.sbt.html#009.092.415">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/092.sbt.html#009.092.415</a>>.
+  (1) “Translation of Sahih Bukhari, Book 92: Holding Fast to the Qur&#8217;an and Sunnah.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 26 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/092.sbt.html#009.092.415">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/092.sbt.html#009.092.415</a>.
 </p>
 
 <p class="reference">
-  (2) Muhammad, Pickthall M., trans. “Al-Mujadila (She That Disputes).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/58.htm">http://www.oneummah.net/quran/58.htm</a>>.
+  (2) Muhammad, Pickthall M., trans. “Al-Mujadila (She That Disputes).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/58.htm">http://www.oneummah.net/quran/58.htm</a>.
 </p>
 
 <p class="reference">
-  (3) Muhammad, Pickthall M., trans. “Al-Imran (The Family Of &#8216;Imran).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/03.htm">http://www.oneummah.net/quran/03.htm</a>>.
+  (3) Muhammad, Pickthall M., trans. “Al-Imran (The Family Of &#8216;Imran).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/03.htm">http://www.oneummah.net/quran/03.htm</a>.
 </p>
 
 <p class="reference">
-  (4) Muhammad, Pickthall M., trans. “Al-Qasas (The Story).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/28.htm">http://www.oneummah.net/quran/28.htm</a>>.
+  (4) Muhammad, Pickthall M., trans. “Al-Qasas (The Story).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/28.htm">http://www.oneummah.net/quran/28.htm</a>.
 </p>
 
 <p class="reference">
-  (5) Muhammad, Pickthall M., trans. “Fatir (Orignator).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/35.htm">http://www.oneummah.net/quran/35.htm</a>>.
+  (5) Muhammad, Pickthall M., trans. “Fatir (Orignator).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 26 Apr. 2006 <<a href="http://www.oneummah.net/quran/35.htm">http://www.oneummah.net/quran/35.htm</a>.
 </p>
 
 <p class="reference">
-  (6) &#8220;Partial Translation of Sunan Abu-Dawud, Book 25: Knowledge (Kitab Al-&#8216;Ilm).&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 26 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/025.sat.html#025.3634">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/025.sat.html#025.3634</a>>.
+  (6) &#8220;Partial Translation of Sunan Abu-Dawud, Book 25: Knowledge (Kitab Al-&#8216;Ilm).&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 26 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/025.sat.html#025.3634">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/025.sat.html#025.3634</a>.
 </p>
 
 <p class="reference">

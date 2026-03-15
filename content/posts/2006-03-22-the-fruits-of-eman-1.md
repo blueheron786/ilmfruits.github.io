@@ -89,11 +89,11 @@ This shows that eman&#8211;belief in the Hereafter&#8211;is the key to having yo
 </div>
 
 <p class="reference">
-  (1) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 22 Mar. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (1) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 22 Mar. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">
-  (2) &#8220;Sahih Bukhari, Book 2: Faith.&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. University of South California. 22 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/002.sbt.html">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/002.sbt.html</a>>.
+  (2) &#8220;Sahih Bukhari, Book 2: Faith.&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. University of South California. 22 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/002.sbt.html">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/002.sbt.html</a>.
 </p>
 
 <p class="reference">

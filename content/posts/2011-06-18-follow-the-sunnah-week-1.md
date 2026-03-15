@@ -23,8 +23,10 @@ tags:
 Allah Subhannallah, tells us in the Quran:
 
 <p class="quran">لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّـهِ أُسْوَةٌ</p>
+
 > 
 <p class="quran">حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّـهَ وَ</p>
+
 > 
 <p class="quran">وَذَكَرَ اللَّـهَ كَثِيرًا</p>
 

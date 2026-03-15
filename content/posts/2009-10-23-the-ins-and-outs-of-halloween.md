@@ -149,7 +149,6 @@ Ibn Uthaymeen rahmatulillah alay has said:
 Shaykh al-Islaam Ibn Taymiyah said in his book Iqtidaa&#8217; al-siraat al-mustaqeem mukhaalifat ashaab al-jaheem: 
 
 > Imitating them in some oftheir festivals implies that one is pleased with their false beliefs and practices, and gives them the hope that they may have the opportunity to humiliate and mislead the weak.
-> 
-> Allaah is the One Whom we ask to make the Muslims feel proud of their religion, to help them adhere steadfastly to it, and to make them victorious, for He is the Strong and Omnipotent. (Majmoo&#8217;ah Fataawa wa Rasaa&#8217;il al-Shaykh Ibn &#8216;Uthaymeen, 3/369) 
+>  Allaah is the One Whom we ask to make the Muslims feel proud of their religion, to help them adhere steadfastly to it, and to make them victorious, for He is the Strong and Omnipotent. (Majmoo&#8217;ah Fataawa wa Rasaa&#8217;il al-Shaykh Ibn &#8216;Uthaymeen, 3/369) 
 
 Please forgive me for anything I said that may have offended you. Anything good that comes out of this is from Allah and Him Alone. Anything bad or wrong comes from myself and shaytaan. Jazak Allah Khair.

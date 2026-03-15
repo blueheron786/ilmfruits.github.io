@@ -32,14 +32,14 @@ Religion, in contrast, consists of divine acts of worship from Allah (directly, 
 Consider, now, the rulings on these two facets. In religious actions, the default ruling is that they are haram, until they are proven acceptable by the shari&#8217;ah. This is based on the famous hadith of rasulullah, collected by Imam Nawawi in his famous 40:
 
 <p class="hadith">مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ</p>
-> 
-> He who innovates things in our affairs for which there is no valid (reason) (commits sin) and these are to be rejected. ([Saheeh Muslim][1]) 
+
+>  He who innovates things in our affairs for which there is no valid (reason) (commits sin) and these are to be rejected. ([Saheeh Muslim][1]) 
 
 For culture &#8212; normal, every-day actions &#8212; the default is that it&#8217;s permissible. To support this, rasulullah said:
 
 <p class="hadith">لا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ اللَّهِ عَزَّ وَجَلَّ</p>
-> 
-> There is no obedience to a created being if it involves disobedience of the Creator. ([Ahmed, Haakim][2]) 
+
+>  There is no obedience to a created being if it involves disobedience of the Creator. ([Ahmed, Haakim][2]) 
 
 What kind of proof suffices to prove that an action is imperissble? Mainly two:
 

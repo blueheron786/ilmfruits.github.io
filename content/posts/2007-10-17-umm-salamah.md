@@ -29,46 +29,26 @@ The hijrah of Umm Salamah and her husband though was not as easy as they had ima
 Let us leave the story now for Umm Salamah herself to tell &#8230;
 
 > When Abu Salamah (my husband) decided to leave for Madinah, he prepared a camel for me, hoisted me on it and placed our son Salamah on my lap. My husband then took the lead and went on without stopping or waiting for anything. Before we were out of Makkah, some men from my clan stopped us and said to my husband:
-> 
-> &#8220;Though you are free to do what you like with yourself, you have no power over your wife. She is our daughter. Do you expect us to allow you to take her away from us?&#8221;
-> 
-> &#8220;They then pounced on him and snatched me away from him. My husband&#8217;s clan, Banu Abdul-Asad, saw them taking both me and my child. They became hot with rage.
-> 
-> &#8220;No! By Allah,&#8221; they shouted, &#8220;we shall not abandon the boy. He is our son and we have a first claim over him.&#8221;
-> 
-> They took him by the hand and pulled him away from me. Suddenly, in the space of a few moments, I found myself alone and lonely. My husband headed for Madinah by himself, and his clan had snatched my son away from me. My own clan, Banu Makhzum, overpowered me and forced me to stay with them.
-> 
-> From the day when my husband and my son were separated from me, I went out at noon every day to that valley and sat at the spot where this tragedy occurred. I would recall those terrible moments and weep until night fell on me.
-> 
-> I continued like this for a year or so until one day a man from the Banu Umayyah passed by and saw my condition. He went back to my clan and said:
-> 
-> &#8220;Why don&#8217;t you free this poor woman? You have caused her husband and her son to be taken away from her.&#8221;
-> 
-> He went on trying to soften their hearts and play on their emotions. At last they said to me, &#8220;Go and join your husband if you wish.&#8221;
-> 
-> But how could I join my husband in Madinah and leave my son, a piece of my own flesh and blood, in Makkah among the Banu Abdul-Asad? How could I be free from anguish and my eyes be free from tears were I to reach the place of hijrah not knowing anything of my little son left behind in Makkah?
-> 
-> Some realized what I was going through and their hearts went out to me. They petitioned the Banu Abdul-Asad on my behalf and moved them to return my son.
-> 
-> I did not now even want to linger in Makkah until I found someone to travel with me, and I was afraid that something might happen that would delay or prevent me from reaching my husband. So I promptly got my camel ready, placed my son on my lap and left in the direction of Madinah.
-> 
-> I had just about reached Tan&#8217;im (about three miles from Makkah) when I met Uthman ibn Talhah. (He was a keeper of the Ka&#8217;bah in preIslamic times and was not yet a Muslim.)
-> 
-> &#8220;Where are you going, Bint Zad Ar-Rakib?&#8221; he asked.
-> 
-> &#8220;I am going to my husband in Madinah.&#8221;
-> 
-> &#8220;And there isn&#8217;t anyone with you?&#8221;
-> 
-> &#8220;No, by Allah. Except Allah and my little boy here.&#8221;
-> 
-> &#8220;By Allah, I shall never abandon you until you reach Madinah,&#8221; he vowed.
-> 
-> He then took the reins of my camel and led us on. I have, by Allah, never met an Arab more generous and noble than he. When we reached a resting place, he would make my camel kneel down, wait until I dismounted, lead the camel to a tree and tether it. He would then go to the shade of another tree. When we had rested he would get the camel ready and lead us on.
-> 
-> This he did every day until we reached Madinah. When we got to a village near Quba (about two miles from Madinah) belonging to Banu Amr ibn Awf, he said, &#8220;Your husband is in this village. Enter it with the blessings of God. &#8221;
-> 
-> He turned back and headed for Makkah. 
+>  &#8220;Though you are free to do what you like with yourself, you have no power over your wife. She is our daughter. Do you expect us to allow you to take her away from us?&#8221;
+>  &#8220;They then pounced on him and snatched me away from him. My husband&#8217;s clan, Banu Abdul-Asad, saw them taking both me and my child. They became hot with rage.
+>  &#8220;No! By Allah,&#8221; they shouted, &#8220;we shall not abandon the boy. He is our son and we have a first claim over him.&#8221;
+>  They took him by the hand and pulled him away from me. Suddenly, in the space of a few moments, I found myself alone and lonely. My husband headed for Madinah by himself, and his clan had snatched my son away from me. My own clan, Banu Makhzum, overpowered me and forced me to stay with them.
+>  From the day when my husband and my son were separated from me, I went out at noon every day to that valley and sat at the spot where this tragedy occurred. I would recall those terrible moments and weep until night fell on me.
+>  I continued like this for a year or so until one day a man from the Banu Umayyah passed by and saw my condition. He went back to my clan and said:
+>  &#8220;Why don&#8217;t you free this poor woman? You have caused her husband and her son to be taken away from her.&#8221;
+>  He went on trying to soften their hearts and play on their emotions. At last they said to me, &#8220;Go and join your husband if you wish.&#8221;
+>  But how could I join my husband in Madinah and leave my son, a piece of my own flesh and blood, in Makkah among the Banu Abdul-Asad? How could I be free from anguish and my eyes be free from tears were I to reach the place of hijrah not knowing anything of my little son left behind in Makkah?
+>  Some realized what I was going through and their hearts went out to me. They petitioned the Banu Abdul-Asad on my behalf and moved them to return my son.
+>  I did not now even want to linger in Makkah until I found someone to travel with me, and I was afraid that something might happen that would delay or prevent me from reaching my husband. So I promptly got my camel ready, placed my son on my lap and left in the direction of Madinah.
+>  I had just about reached Tan&#8217;im (about three miles from Makkah) when I met Uthman ibn Talhah. (He was a keeper of the Ka&#8217;bah in preIslamic times and was not yet a Muslim.)
+>  &#8220;Where are you going, Bint Zad Ar-Rakib?&#8221; he asked.
+>  &#8220;I am going to my husband in Madinah.&#8221;
+>  &#8220;And there isn&#8217;t anyone with you?&#8221;
+>  &#8220;No, by Allah. Except Allah and my little boy here.&#8221;
+>  &#8220;By Allah, I shall never abandon you until you reach Madinah,&#8221; he vowed.
+>  He then took the reins of my camel and led us on. I have, by Allah, never met an Arab more generous and noble than he. When we reached a resting place, he would make my camel kneel down, wait until I dismounted, lead the camel to a tree and tether it. He would then go to the shade of another tree. When we had rested he would get the camel ready and lead us on.
+>  This he did every day until we reached Madinah. When we got to a village near Quba (about two miles from Madinah) belonging to Banu Amr ibn Awf, he said, &#8220;Your husband is in this village. Enter it with the blessings of God. &#8221;
+>  He turned back and headed for Makkah. 
 
 Their roads finally met after the long separation. Umm Salamah was overjoyed to see her husband and he was delighted to see his wife and son.
 

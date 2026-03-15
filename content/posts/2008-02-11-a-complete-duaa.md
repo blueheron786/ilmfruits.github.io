@@ -49,7 +49,7 @@ May Allah (سبحانه وتعالى) make us among those who will have good in 
 </div>
 
 <p class="reference">
-  Al-Huda Institute Canada. Ta&#8217;leem Al-Qur&#8217;an Course for Women. Al-Huda Islamic Centre of Canada. Mississauga, Ontario. October 2007. <<a href="http://www.alhudainstitute.ca/">www.alhudainstitute.ca</a>>
+  Al-Huda Institute Canada. Ta&#8217;leem Al-Qur&#8217;an Course for Women. Al-Huda Islamic Centre of Canada. Mississauga, Ontario. October 2007. <<a href="http://www.alhudainstitute.ca/">www.alhudainstitute.ca</a>
 </p>
 
 <p class="reference">

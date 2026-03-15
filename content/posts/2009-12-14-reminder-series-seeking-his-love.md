@@ -24,7 +24,6 @@ We live this life yearning to be amongst those whom Allah loves. On top of that
 Here is a a beautiful du&#8217;a that we have been taught by the Prophet sallalahu alayhi wasalam:
 
 > _Allahuma innee as aluka hubbak wa hubba maiyy yuhibbook wal &#8216;amalalathzee yuballighunee hubbak_
-> 
-> O Allah! Indeed I ask you for your love and love of those who love you and love of the deed which will draw me in attaining your love.
+>  O Allah! Indeed I ask you for your love and love of those who love you and love of the deed which will draw me in attaining your love.
 
 SubhanAllah! What a beautiful du&#8217;a. May Allah give us the ability to memorize this du&#8217;a and use it everyday in our journey of attaining His love. Ameen.

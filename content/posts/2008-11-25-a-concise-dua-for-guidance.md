@@ -30,8 +30,7 @@ The du&#8217;a is:
 > <div class="arabic" style="font-size: 32px;">
 >   اللهمَّ إجعَلنِي مِن المَقَرِّبِينَ وَ مِن المُخلِصِينَ وَ مِن الصِدِّقِينَ وَ مِن المُحسِنِين
 > </div>
-> 
-> Allahumma ij&#8217;alnee min al-muqarribeen, wa min al-mukhliseen, wa min al-muhsineen, wa min as-siddiqeen.
+>  Allahumma ij&#8217;alnee min al-muqarribeen, wa min al-mukhliseen, wa min al-muhsineen, wa min as-siddiqeen.
 
 What does this du&#8217;a mean? It means, &#8220;O Allah, make me from among the muaqarribeen, and the mukhliseen, and the muhsineen, and the siddiqeen.&#8221; Let&#8217;s break down these four groups to see who they are:
 

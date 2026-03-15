@@ -39,7 +39,7 @@ May Allah (سبحانه وتعالى) keep us all on the Straight Path and help 
 </div>
 
 <p class="reference">
-  [1] Asma Bint Shameem. &#8220;Mistakes During Ramadaan.&#8221; <u>Have Fun!</u> 19 Sept. 2006. 5 Oct. 2006 <<a href="http://funyetponder.blogspot.com/2006/09/mistakes-during-ramadaan.html">http://funyetponder.blogspot.com/2006/09/mistakes-during-ramadaan.html</a>>.
+  [1] Asma Bint Shameem. &#8220;Mistakes During Ramadaan.&#8221; <u>Have Fun!</u> 19 Sept. 2006. 5 Oct. 2006 <<a href="http://funyetponder.blogspot.com/2006/09/mistakes-during-ramadaan.html">http://funyetponder.blogspot.com/2006/09/mistakes-during-ramadaan.html</a>.
 </p>
 
 <p class="reference">

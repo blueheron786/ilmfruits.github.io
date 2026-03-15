@@ -18,14 +18,10 @@ This Ramadan…be an orange!
 _Say what?_
 
 > &#8220;The example of a believer, who recites the Qur&#8217;an and acts on it, is like an **orange** (_utrujjah_) which tastes nice and smells nice.
-> 
-> And the example of the believer who does not recite the Qur&#8217;an but acts on it is like a **date** that tastes sweet but has no smell.
-> 
-> And the example of the hypocrite who recites the Quran is like a **sweet basil** which smells good but tastes bitter.
-> 
-> And the example of a hypocrite who does not recite the Qur&#8217;an is like a **colocynth** (bitter apple) which tastes bitter and has a bad smell.&#8221;
-> 
-> [Allah’s Messenger (صلي الله عليه وسلم), reported in Saheeh al-Bukhari]
+>  And the example of the believer who does not recite the Qur&#8217;an but acts on it is like a **date** that tastes sweet but has no smell.
+>  And the example of the hypocrite who recites the Quran is like a **sweet basil** which smells good but tastes bitter.
+>  And the example of a hypocrite who does not recite the Qur&#8217;an is like a **colocynth** (bitter apple) which tastes bitter and has a bad smell.&#8221;
+>  [Allah’s Messenger (صلي الله عليه وسلم), reported in Saheeh al-Bukhari]
 
 Subhan Allah!
 

@@ -120,7 +120,7 @@ _
 </div>
 
 <p class="reference">
-  (1) Hamdan, Aisha. “Tips for a Happy and Successful Marriage.” <u>Madrasa In&#8217;aamiyyah</u>. 13 September 2006 <<a href="http://www.alinaam.org.za/library/tipsmarriage.htm">http://www.alinaam.org.za/library/tipsmarriage.htm</a>>.
+  (1) Hamdan, Aisha. “Tips for a Happy and Successful Marriage.” <u>Madrasa In&#8217;aamiyyah</u>. 13 September 2006 <<a href="http://www.alinaam.org.za/library/tipsmarriage.htm">http://www.alinaam.org.za/library/tipsmarriage.htm</a>.
 </p>
 
  [1]: http://alia.wordpress.com/2006/09/10/tips-for-a-happy-and-successful-marriage/

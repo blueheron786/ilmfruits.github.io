@@ -47,7 +47,7 @@ May Allah increase us all in our eman, and make firm our hearts on Islam. Ameen!
 </div>
 
 <p class="reference">
-  (1) &#8220;The Merit of Making Du&#8217;a (Supplication).&#8221; <u>Mission Islam Youth with a Mission</u>. 17 Apr. 2006 <<a href="http://www.missionislam.com/knowledge/dua.htm">http://www.missionislam.com/knowledge/dua.htm</a>>.
+  (1) &#8220;The Merit of Making Du&#8217;a (Supplication).&#8221; <u>Mission Islam Youth with a Mission</u>. 17 Apr. 2006 <<a href="http://www.missionislam.com/knowledge/dua.htm">http://www.missionislam.com/knowledge/dua.htm</a>.
 </p>
 
 <p class="reference">

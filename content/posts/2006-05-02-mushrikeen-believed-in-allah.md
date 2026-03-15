@@ -108,27 +108,27 @@ May Allah (سبحانه وتعالى) give us a proper understanding of &#8216;a
 </div>
 
 <p class="reference">
-  (1) Muhammad, Pickthall M., trans. “Al-Ankaboot (The Spider).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/29.htm">http://www.oneummah.net/quran/29.htm</a>>.
+  (1) Muhammad, Pickthall M., trans. “Al-Ankaboot (The Spider).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/29.htm">http://www.oneummah.net/quran/29.htm</a>.
 </p>
 
 <p class="reference">
-  (2) Muhammad, Pickthall M., trans. “Yusuf (Joseph).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/12.htm">http://www.oneummah.net/quran/12.htm</a>>.
+  (2) Muhammad, Pickthall M., trans. “Yusuf (Joseph).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/12.htm">http://www.oneummah.net/quran/12.htm</a>.
 </p>
 
 <p class="reference">
-  (3) Muhammad, Pickthall M., trans. “Yunus (Jonah).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/10.htm">http://www.oneummah.net/quran/10.htm</a>>.
+  (3) Muhammad, Pickthall M., trans. “Yunus (Jonah).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/10.htm">http://www.oneummah.net/quran/10.htm</a>.
 </p>
 
 <p class="reference">
-  (4) Muhammad, Pickthall M., trans. “Az-Zumar (The Troops).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/39.htm">http://www.oneummah.net/quran/39.htm</a>>.
+  (4) Muhammad, Pickthall M., trans. “Az-Zumar (The Troops).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/39.htm">http://www.oneummah.net/quran/39.htm</a>.
 </p>
 
 <p class="reference">
-  (5) Muhammad, Pickthall M., trans. “Sad (The Letter Sad).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/38.htm">http://www.oneummah.net/quran/38.htm</a>>.
+  (5) Muhammad, Pickthall M., trans. “Sad (The Letter Sad).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 2 May 2006 <<a href="http://www.oneummah.net/quran/38.htm">http://www.oneummah.net/quran/38.htm</a>.
 </p>
 
 <p class="reference">
-  (6) Muhammad Pickthall M., trans. “Al-Baqarah (The Cow).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 2 May 2006 <<a href="http://www.usc.edu/dept/MSA/quran/002.qmt.html">http://www.usc.edu/dept/MSA/quran/002.qmt.html</a>>.
+  (6) Muhammad Pickthall M., trans. “Al-Baqarah (The Cow).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 2 May 2006 <<a href="http://www.usc.edu/dept/MSA/quran/002.qmt.html">http://www.usc.edu/dept/MSA/quran/002.qmt.html</a>.
 </p>
 
 <p class="reference">

@@ -58,11 +58,11 @@ May Allah protect us all from the evil of shirk, and allow us to live and die as
 </div>
 
 <p class="reference">
-  (1) Shakir, trans. “An-Nisaa (Women).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 16 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/004.qmt.html">http://www.usc.edu/dept/MSA/quran/004.qmt.html</a>>.
+  (1) Shakir, trans. “An-Nisaa (Women).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 16 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/004.qmt.html">http://www.usc.edu/dept/MSA/quran/004.qmt.html</a>.
 </p>
 
 <p class="reference">
-  (2) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (2) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">

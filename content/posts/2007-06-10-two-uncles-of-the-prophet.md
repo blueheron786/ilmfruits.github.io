@@ -48,7 +48,7 @@ May Allah make us among those who achieve taqwa, irrespective of who we are&#821
 </div>
 
 <p class="reference">
-  [1] Abdul Qadeer. &#8220;Two Little Warriors.&#8221; Madani Forum. 19 Feb. 2007. 9 June 2007 <<a href="http://madani.16.forumer.com/a/two-little-warriors_post1995.html">http://madani.16.forumer.com/a/two-little-warriors_post1995.html</a>>.
+  [1] Abdul Qadeer. &#8220;Two Little Warriors.&#8221; Madani Forum. 19 Feb. 2007. 9 June 2007 <<a href="http://madani.16.forumer.com/a/two-little-warriors_post1995.html">http://madani.16.forumer.com/a/two-little-warriors_post1995.html</a>.
 </p>
 
 <p class="reference">

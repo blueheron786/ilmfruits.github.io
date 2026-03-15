@@ -78,11 +78,11 @@ And that&#8217;s Tawassul. Try these methods in your du&#8217;a inshallah, and y
 </div>
 
 <p class="reference">
-  (1) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>>.
+  (1) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>.
 </p>
 
 <p class="reference">
-  (2) “Translation of Sahih Bukhari, Book 34: Sales and Trade.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 15 May 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/034.sbt.html#003.034.418">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/034.sbt.html#003.034.418</a>>
+  (2) “Translation of Sahih Bukhari, Book 34: Sales and Trade.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 15 May 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/034.sbt.html#003.034.418">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/034.sbt.html#003.034.418</a>
 </p>
 
 <p class="reference">

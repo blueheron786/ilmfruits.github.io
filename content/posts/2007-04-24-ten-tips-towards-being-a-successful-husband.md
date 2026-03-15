@@ -123,7 +123,7 @@ May Allah bless us and guide us all. Ameen!
 </div>
 
 <p class="reference">
-  Alshareef, Muhammad. &#8220;[10 Tips] How to Be a Successful Husband.&#8221; IslamWay. 24 Apr. 2007 <<a href="http://english.islamway.com/bindex.php?section=article&#038;id=103">http://english.islamway.com/bindex.php?section=article&id=103</a>>.
+  Alshareef, Muhammad. &#8220;[10 Tips] How to Be a Successful Husband.&#8221; IslamWay. 24 Apr. 2007 <<a href="http://english.islamway.com/bindex.php?section=article&#038;id=103">http://english.islamway.com/bindex.php?section=article&id=103</a>.
 </p>
 
  [1]: http://english.islamway.com/bindex.php?section=article&id=103

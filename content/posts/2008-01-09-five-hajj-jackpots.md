@@ -33,11 +33,11 @@ May Allah accept all the Hajj of all the Hujjaj, and teach the coming Hujjaj how
 </div>
 
 <p class="reference">
-  [1] &#8220;Hajj in Quran and Sunnah.&#8221; IslamicFinder. 17 Jan. 2008 <<a href="http://www.islamicfinder.org/articles/article.php?id=282">http://www.islamicfinder.org/articles/article.php?id=282</a>>.
+  [1] &#8220;Hajj in Quran and Sunnah.&#8221; IslamicFinder. 17 Jan. 2008 <<a href="http://www.islamicfinder.org/articles/article.php?id=282">http://www.islamicfinder.org/articles/article.php?id=282</a>.
 </p>
 
 <p class="reference">
-  [2] &#8220;Times When the Prophet (Peace and Blessings of Allaah Be Upon Him) Made Du’Aa’ During Hajj and ‘Umrah.&#8221; Islam Question and Answer. 17 Jan. 2008 <<a href="http://islamqa.com/index.php?ref=43640&#038;ln=eng">http://islamqa.com/index.php?ref=43640&ln=eng</a>>.
+  [2] &#8220;Times When the Prophet (Peace and Blessings of Allaah Be Upon Him) Made Du’Aa’ During Hajj and ‘Umrah.&#8221; Islam Question and Answer. 17 Jan. 2008 <<a href="http://islamqa.com/index.php?ref=43640&#038;ln=eng">http://islamqa.com/index.php?ref=43640&ln=eng</a>.
 </p>
 
  [1]: http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/007.smt.html#007.3129

@@ -16,18 +16,12 @@ We feel the pain. We are hurting. We are crying. Reality has kicked in. Up until
 Hold up. Is it _really_ Allah (سبحانه وتعالى) who put us in this condition? Or is it us due our neglect and, at times, denial of the commands of Allah (سبحانه وتعالى)?
 
 > It was narrated that in the days that Musa (عليه سلام) wandered with Banu Israeel in the desert, an intense drought befell them. Together, they raised their hands towards the heavens praying for the blessed rain to come. Then, to the astonishment of Musa (عليه سلام) and all those watching, the few scattered clouds in the sky vanished, the heat poured down, and the drought intensified.
-> 
-> Allah revealed to Musa that there was a sinner amongst the tribe of Banu Israeel whom disobeyed Allah (سبحانه وتعالى) for more than 40 years of his life. ‘Let him separate himself from the congregation,’ Allah (سبحانه وتعالى) told Musa (عليه سلام). ‘Only then shall I shower you all with rain.’
-> 
-> Musa (عليه سلام) then called out to the throngs of humanity, ‘there is a person amongst us who has disobeyed Allah for 40 years. Let him separate himself from the congregation, and only then shall we be rescued from the drought.’ That man waited, looking left and right, hoping that someone else would step forward, but no one did. Sweat poured forth from his brow and he knew that he was the one.
-> 
-> The man knew that if he stayed amongst the congregation, all would die of thirst, and that if he stepped forward, he would be humiliated for all eternity.
-> 
-> He raised his hands with a sincerity he had never known before, with a humility he had never tasted, and as tears poured down on both cheeks he said: ‘O Allah, have mercy on me! O Allah, hide my sins! O Allah, forgive me!’
-> 
-> As Musa (عليه سلام) and the people of Bani Israeel awaited for the sinner to step forward, the clouds hugged the sky and the rain poured. Musa (عليه سلام) asked Allah (سبحانه وتعالى), ‘O Allah, you blessed us with rain even though the sinner did not come forward.’ And Allah (سبحانه وتعالى) replied, ‘O Musa, it is for the repentance of that very person that I blessed all of Bani Israeel with water.’
-> 
-> Musa (عليه سلام), wanting to know who this blessed man was, asked, ‘Show him to me O Allah!’ Allah (سبحانه وتعالى) replied, ‘O Musa, I hid his sins for 40 years, do you think that after his repentance I shall expose him?’
+>  Allah revealed to Musa that there was a sinner amongst the tribe of Banu Israeel whom disobeyed Allah (سبحانه وتعالى) for more than 40 years of his life. ‘Let him separate himself from the congregation,’ Allah (سبحانه وتعالى) told Musa (عليه سلام). ‘Only then shall I shower you all with rain.’
+>  Musa (عليه سلام) then called out to the throngs of humanity, ‘there is a person amongst us who has disobeyed Allah for 40 years. Let him separate himself from the congregation, and only then shall we be rescued from the drought.’ That man waited, looking left and right, hoping that someone else would step forward, but no one did. Sweat poured forth from his brow and he knew that he was the one.
+>  The man knew that if he stayed amongst the congregation, all would die of thirst, and that if he stepped forward, he would be humiliated for all eternity.
+>  He raised his hands with a sincerity he had never known before, with a humility he had never tasted, and as tears poured down on both cheeks he said: ‘O Allah, have mercy on me! O Allah, hide my sins! O Allah, forgive me!’
+>  As Musa (عليه سلام) and the people of Bani Israeel awaited for the sinner to step forward, the clouds hugged the sky and the rain poured. Musa (عليه سلام) asked Allah (سبحانه وتعالى), ‘O Allah, you blessed us with rain even though the sinner did not come forward.’ And Allah (سبحانه وتعالى) replied, ‘O Musa, it is for the repentance of that very person that I blessed all of Bani Israeel with water.’
+>  Musa (عليه سلام), wanting to know who this blessed man was, asked, ‘Show him to me O Allah!’ Allah (سبحانه وتعالى) replied, ‘O Musa, I hid his sins for 40 years, do you think that after his repentance I shall expose him?’
 
 Due to one person–_**ONE**_ person–Allah (سبحانه وتعالى) didn’t grant them rain. Now, do you think we deserve victory? Forget about _one_ person, more like thousands upon thousands upons thousands, maybe even millions in our day and age. We sin on a daily basis, without any regard, without any fear, without any remorse. Isn’t it about time we give victory to ourselves? Isn’t it about time we stop this?
 

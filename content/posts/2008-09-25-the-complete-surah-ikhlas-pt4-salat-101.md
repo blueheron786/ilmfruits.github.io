@@ -32,7 +32,7 @@ Continuing in our series of the interpretation of Surah Ikhlas. We now move to t
   In regards to this verse, Ibn Rajab writes:
 </p>
 
-> <p style="text-align: left;">
+><p style="text-align: left;">
 >   <em><strong>&#8220;&#8230;this chapter contains the genealogy and description of God, the Most-Merciful. It was revealed by Allah to refute beliefs attributed to Him by misguided people concering His similitude, bodily form, origin and offspring. The claims idolaters, Sabians, Christians and Jews, and hypocrites from this nation that Allah gave birth to angels, intelligences, souls, or prophets and others are also included in that&#8221;</strong></em>
 > </p>
 
@@ -44,7 +44,7 @@ Continuing in our series of the interpretation of Surah Ikhlas. We now move to t
   Dr. Bilal Philips writes:
 </p>
 
-> <p style="text-align: left;">
+><p style="text-align: left;">
 >   <em><strong>&#8220;If God is Unique, nothing can be equal to Him. If nothing is equal to Him, then He alone is Unique. If He alone is Self-Suffiecient and all creation is in need dire need of Him, nothing in creation can be equal to Him. If He does not bear any offspring, nor did anyone or anything give birth to Him, nothing or no one can be equal to Him as every created thing came into existence after a period of non-existence.&#8221;</strong></em>
 > </p>
 

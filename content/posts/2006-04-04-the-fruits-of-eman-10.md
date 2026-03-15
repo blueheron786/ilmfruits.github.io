@@ -55,27 +55,27 @@ May Allah make us all among those who cross in the twinkling of an eye, and prot
 </div>
 
 <p class="reference">
-  (1) Muhammad, Pickthall M., trans. &#8220;Al-Maarij (the Ascending Stairways).&#8221; <u>Al-Qur&#8217;an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 4 Apr. 2006 <<a href="http://www.oneummah.net/quran/70.htm">http://www.oneummah.net/quran/70.htm</a>>.
+  (1) Muhammad, Pickthall M., trans. &#8220;Al-Maarij (the Ascending Stairways).&#8221; <u>Al-Qur&#8217;an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 4 Apr. 2006 <<a href="http://www.oneummah.net/quran/70.htm">http://www.oneummah.net/quran/70.htm</a>.
 </p>
 
 <p class="reference">
-  (2) Ibn Kathir, comp. &#8220;Everyone Will Be Brought to Hell, Then the Righteous Will Be Saved.&#8221; <u>Tafsir.Com Tafsir Ibn Kathir</u>. 26 Oct. 2002. 4 Apr. 2006 <<a href="http://www.tafsir.com/default.asp?sid=19&#038;tid=31598">http://www.tafsir.com/default.asp?sid=19&tid=31598</a>>.
+  (2) Ibn Kathir, comp. &#8220;Everyone Will Be Brought to Hell, Then the Righteous Will Be Saved.&#8221; <u>Tafsir.Com Tafsir Ibn Kathir</u>. 26 Oct. 2002. 4 Apr. 2006 <<a href="http://www.tafsir.com/default.asp?sid=19&#038;tid=31598">http://www.tafsir.com/default.asp?sid=19&tid=31598</a>.
 </p>
 
 <p class="reference">
-  (3) &#8220;Translation of Sahih Bukhari, Book 76: to Make the Heart Tender (Ar-Riqaq).&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 4 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.577">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.577</a>>.
+  (3) &#8220;Translation of Sahih Bukhari, Book 76: to Make the Heart Tender (Ar-Riqaq).&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 4 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.577">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.577</a>.
 </p>
 
 <p class="reference">
-  (4) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 1 Apr. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (4) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 1 Apr. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">
-  (5) &#8220;Translation of Sahih Muslim, Book 1: the Book of Faith (Kitab Al-Iman), Chapter 81: the Way in Which the Believers Would See the Lord.&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 4 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/001.smt.html#001.0352">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/001.smt.html#001.0352</a>>.
+  (5) &#8220;Translation of Sahih Muslim, Book 1: the Book of Faith (Kitab Al-Iman), Chapter 81: the Way in Which the Believers Would See the Lord.&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 4 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/001.smt.html#001.0352">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/001.smt.html#001.0352</a>.
 </p>
 
 <p class="reference">
-  (6) Imam Ibn Ul Qayyim Al Jaw. &#8220;Commentary on the Verse of Light.&#8221; <u>Islam.Com</u>. Trans. Michael A. Fitzgerald and Moulay Y. Slitine. 4 Apr. 2006 <<a href="http://www.islaam.com/Article.aspx?id=659">http://www.islaam.com/Article.aspx?id=659</a>>.
+  (6) Imam Ibn Ul Qayyim Al Jaw. &#8220;Commentary on the Verse of Light.&#8221; <u>Islam.Com</u>. Trans. Michael A. Fitzgerald and Moulay Y. Slitine. 4 Apr. 2006 <<a href="http://www.islaam.com/Article.aspx?id=659">http://www.islaam.com/Article.aspx?id=659</a>.
 </p>
 
 <p class="reference">

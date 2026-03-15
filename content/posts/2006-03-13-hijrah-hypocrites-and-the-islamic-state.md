@@ -39,5 +39,5 @@ And Allah is the All-Knowing, All Wise.
 </div>
 
 <p class="reference">
-  (1) Shakir, trans. &#8220;An-Nisaa (Women)&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 13 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/004.qmt.html">http://www.usc.edu/dept/MSA/quran/004.qmt.html</a>>.
+  (1) Shakir, trans. &#8220;An-Nisaa (Women)&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 13 Mar. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/004.qmt.html">http://www.usc.edu/dept/MSA/quran/004.qmt.html</a>.
 </p>

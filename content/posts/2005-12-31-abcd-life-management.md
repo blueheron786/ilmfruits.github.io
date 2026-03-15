@@ -40,7 +40,7 @@ Wallahu &#8216;alim. I find this form of time management helps you complete thos
 </div>
 
 <p class="reference">
-  (1) Sahih Bukhari. MSA-USC Hadith Database. 1 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.421">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.421</a>>.<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.421"> </a>
+  (1) Sahih Bukhari. MSA-USC Hadith Database. 1 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.421">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.421</a>.<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/076.sbt.html#008.076.421"> </a>
 </p>
 
  [1]: http://www.stevepavlina.com/blog/2005/12/the-50-30-20-rule/

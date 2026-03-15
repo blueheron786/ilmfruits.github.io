@@ -49,7 +49,7 @@ May Allah (سبحانه وتعالى) increase us all in our knowledge (and subs
 </p>
 
 <p class="reference">
-  (2) Khan, Muhsin, trans. &#8220;Quranic Realm.&#8221; <u>Islamic Network</u>. 7 May 2006 <<a href="http://quran.islamicnetwork.com/viewverses.php?q=35">http://quran.islamicnetwork.com/viewverses.php?q=35</a>>.
+  (2) Khan, Muhsin, trans. &#8220;Quranic Realm.&#8221; <u>Islamic Network</u>. 7 May 2006 <<a href="http://quran.islamicnetwork.com/viewverses.php?q=35">http://quran.islamicnetwork.com/viewverses.php?q=35</a>.
 </p>
 
 <p class="reference">

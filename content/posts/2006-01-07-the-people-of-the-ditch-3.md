@@ -61,11 +61,11 @@ Allahu &#8216;alim. Stay tuned and we&#8217;ll find out in part four inshaAllah 
 </div>
 
 <p class="reference">
-  (1) Pickthall, Muhammad M., trans. Al-Qur&#8217;an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (1) Pickthall, Muhammad M., trans. Al-Qur&#8217;an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">
-  (2) &#8220;Chapter of Medicine.&#8221; Sahih Muslim. USC-MSA Hadith Database. 6 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/071.sbt.html#007.071.662">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/071.sbt.html#007.071.662</a>>.
+  (2) &#8220;Chapter of Medicine.&#8221; Sahih Muslim. USC-MSA Hadith Database. 6 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/071.sbt.html#007.071.662">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/071.sbt.html#007.071.662</a>.
 </p>
 
 <p class="reference">

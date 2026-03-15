@@ -43,7 +43,7 @@ May Allah (سبحانه وتعالى) increase the barakah in our lives, in our 
 </div>
 
 <p class="reference">
-  (1) Muhammad, Pickthall M., trans. “Maryam (Mary).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 20 Apr. 2006 <<a href="http://www.oneummah.net/quran/19.htm">http://www.oneummah.net/quran/19.htm</a>>.
+  (1) Muhammad, Pickthall M., trans. “Maryam (Mary).” <u>Al-Qur’an Al-Kareem: Parallel Arabic Text with English Translation</u>. One Ummah Network. 20 Apr. 2006 <<a href="http://www.oneummah.net/quran/19.htm">http://www.oneummah.net/quran/19.htm</a>.
 </p>
 
 <p class="reference">

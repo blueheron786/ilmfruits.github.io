@@ -58,7 +58,7 @@ May He make us of the Muhsinun and those with whom He is well pleased. Ameen!
 </div>
 
 <p class="reference">
-  Ibn Kathir. &#8220;Tafsir Ibn Kathir.&#8221; Quran Tafsir. 28 June 2008 <<a href="http://qtafsir.com/">http://qtafsir.com/</a>>.
+  Ibn Kathir. &#8220;Tafsir Ibn Kathir.&#8221; Quran Tafsir. 28 June 2008 <<a href="http://qtafsir.com/">http://qtafsir.com/</a>.
 </p>
 
 <p class="reference">

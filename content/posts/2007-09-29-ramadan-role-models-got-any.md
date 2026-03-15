@@ -48,5 +48,5 @@ So if YOU haven&#8217;t planned out your Ramadan, do it NOW. Plan your Qu&#8217;
 </p>
 
 <p class="reference">
-  Al-Oadah, Salman. &#8220;How Our Pious Predecessors Spent Ramadan.&#8221; IslamToday.Com. 2005. 23 Sept. 2007 <<a href="http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&sub_cat_id=845">http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&sub_cat_id=845</a>>.
+  Al-Oadah, Salman. &#8220;How Our Pious Predecessors Spent Ramadan.&#8221; IslamToday.Com. 2005. 23 Sept. 2007 <<a href="http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&sub_cat_id=845">http://www.islamtoday.com/showme_weekly_2005.cfm?cat_id=30&sub_cat_id=845</a>.
 </p>

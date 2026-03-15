@@ -41,7 +41,7 @@ And remember, the Prophet (peace be upon him) spent 13 years in Mecca focused pu
 </div>
 
 <p class="reference">
-  (1) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 25 Mar. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (1) Pickthall, Muhammad M., trans. Al-Qur’an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 25 Mar. 2006 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">

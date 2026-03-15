@@ -52,19 +52,19 @@ And remember: if you&#8217;re **not worried** about your intentions, then you mi
 </div>
 
 <p class="reference">
-  (1) “Translation of Sahih Bukhari, Book 1: Revelation.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 21 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/001.sbt.html#001.001.001">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/001.sbt.html#001.001.001</a>>.
+  (1) “Translation of Sahih Bukhari, Book 1: Revelation.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 21 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/001.sbt.html#001.001.001">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/001.sbt.html#001.001.001</a>.
 </p>
 
 <p class="reference">
-  (2) &#8220;&#8216;Actions are But by Intentions&#8217; (Part 2).&#8221; <u>Islamtoday.Com</u>. 21 Apr. 2006 <<a href="http://www.islamtoday.net/english/showme2.cfm?cat_id=31&#038;sub_cat_id=559">http://www.islamtoday.net/english/showme2.cfm?cat_id=31&sub_cat_id=559</a>>.
+  (2) &#8220;&#8216;Actions are But by Intentions&#8217; (Part 2).&#8221; <u>Islamtoday.Com</u>. 21 Apr. 2006 <<a href="http://www.islamtoday.net/english/showme2.cfm?cat_id=31&#038;sub_cat_id=559">http://www.islamtoday.net/english/showme2.cfm?cat_id=31&sub_cat_id=559</a>.
 </p>
 
 <p class="reference">
-  (3) &#8220;Du&#8217;a &#8211; Supplication for Fear of Shirk.&#8221; <u>Fortification of the Muslim Through Remembrance From the Quraan and Sunnah</u>. 21 Apr. 2006 <<a href="http://www.makedua.com/display_dua.php?sectionid=86">http://www.makedua.com/display_dua.php?sectionid=86</a>>.
+  (3) &#8220;Du&#8217;a &#8211; Supplication for Fear of Shirk.&#8221; <u>Fortification of the Muslim Through Remembrance From the Quraan and Sunnah</u>. 21 Apr. 2006 <<a href="http://www.makedua.com/display_dua.php?sectionid=86">http://www.makedua.com/display_dua.php?sectionid=86</a>.
 </p>
 
 <p class="reference">
-  (4) “Translation of Sahih Muslim, Book 20: The Book on Government (Kitab Al-Imara), Chapter 43: Who Fought for Ostentation and Vanity Deserved (Punishment in) Hell.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 21 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/020.smt.html#020.4688">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/020.smt.html#020.4688</a>>.
+  (4) “Translation of Sahih Muslim, Book 20: The Book on Government (Kitab Al-Imara), Chapter 43: Who Fought for Ostentation and Vanity Deserved (Punishment in) Hell.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 21 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/020.smt.html#020.4688">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/020.smt.html#020.4688</a>.
 </p>
 
  [1]: /ibadah-natural-actions-religious-actions/

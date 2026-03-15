@@ -53,11 +53,11 @@ So they took him and he said: O Allah, save me from them and what they want to d
 </div>
 
 <p class="reference">
-  (1) Pickthall, Muhammad M., trans. Al-Qur&#8217;an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (1) Pickthall, Muhammad M., trans. Al-Qur&#8217;an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>
 
 <p class="reference">
-  (2) &#8220;Chapter 18: The Story of the People of the Ditch, the Magician, the Monk, and the Slave.&#8221; Sahih Muslim. USC-MSA Hadith Database. 6 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/042.smt.html#042.7148">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/042.smt.html#042.7148</a>>.
+  (2) &#8220;Chapter 18: The Story of the People of the Ditch, the Magician, the Monk, and the Slave.&#8221; Sahih Muslim. USC-MSA Hadith Database. 6 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/042.smt.html#042.7148">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/042.smt.html#042.7148</a>.
 </p>
 
 <p class="reference">

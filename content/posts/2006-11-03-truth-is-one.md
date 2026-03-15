@@ -31,5 +31,5 @@ May Allah (سبحانه وتعالى) keep us all on the straight path, ameen!
 </div>
 
 <p class="reference">
-  Yasir Qadhi. “Kitab At-Tawheed (Chapter 2).” 2 Nov. 2006 <<a href="http://www.lightuponlight.com/islam/modules.php?name=Downloads&#038;d_op=getit&#038;lid=709">http://www.lightuponlight.com/islam/modules.php?name=Downloads&d_op=getit&lid=709</a>>
+  Yasir Qadhi. “Kitab At-Tawheed (Chapter 2).” 2 Nov. 2006 <<a href="http://www.lightuponlight.com/islam/modules.php?name=Downloads&#038;d_op=getit&#038;lid=709">http://www.lightuponlight.com/islam/modules.php?name=Downloads&d_op=getit&lid=709</a>
 </p>

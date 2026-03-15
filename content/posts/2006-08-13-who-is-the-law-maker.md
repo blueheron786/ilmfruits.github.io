@@ -79,7 +79,7 @@ Subhanallah. May Allah protect us from misguidance and from the Fire, ameen!
 </div>
 
 <p class="reference">
-  [1] Abdul Hasib. &#8220;A Trip to Your Neighbour.&#8221; There is no obedience to the creation when it entails disobedience to the Creator. 6 Aug. 2006. 13 Aug. 2006 <<a href="http://forums.almaghrib.org/showthread.php?t=9343&#038;page=15&#038;pp=10">http://forums.almaghrib.org/showthread.php?t=9343&page=15&pp=10</a>>.
+  [1] Abdul Hasib. &#8220;A Trip to Your Neighbour.&#8221; There is no obedience to the creation when it entails disobedience to the Creator. 6 Aug. 2006. 13 Aug. 2006 <<a href="http://forums.almaghrib.org/showthread.php?t=9343&#038;page=15&#038;pp=10">http://forums.almaghrib.org/showthread.php?t=9343&page=15&pp=10</a>.
 </p>
 
 <p class="reference">

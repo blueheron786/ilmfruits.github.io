@@ -47,7 +47,7 @@ May Allah write us all down as believers, ameen!
 </div>
 
 <p class="reference">
-  (1) Shakir, trans. &#8220;Adh-Dhariyat (The Winnowing Winds).&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 3 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/051.qmt.html">http://www.usc.edu/dept/MSA/quran/051.qmt.html</a>>.
+  (1) Shakir, trans. &#8220;Adh-Dhariyat (The Winnowing Winds).&#8221; <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 3 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/quran/051.qmt.html">http://www.usc.edu/dept/MSA/quran/051.qmt.html</a>.
 </p>
 
 <p class="reference">

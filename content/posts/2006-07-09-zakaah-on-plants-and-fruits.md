@@ -45,7 +45,7 @@ Wallahu ta&#8217;ala &#8216;alim.
 </div>
 
 <p class="reference">
-  (1) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>>.
+  (1) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>.
 </p>
 
 <p class="reference">

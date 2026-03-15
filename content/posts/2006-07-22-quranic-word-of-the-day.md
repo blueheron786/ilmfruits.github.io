@@ -50,7 +50,7 @@ To subscribe, [email them][3].
 </div>
 
 <p class="reference">
-  (1) Khan, Lena. &#8220;AL-KHABIR (الْخَبِ) = THE AWARE.&#8221; QWOTD: Qur&#8217;anic Word of the Day. 21 July 2006. 22 July 2006 <<a href="http://groups.yahoo.com/group/QWOTD">http://groups.yahoo.com/group/QWOTD</a>>.
+  (1) Khan, Lena. &#8220;AL-KHABIR (الْخَبِ) = THE AWARE.&#8221; QWOTD: Qur&#8217;anic Word of the Day. 21 July 2006. 22 July 2006 <<a href="http://groups.yahoo.com/group/QWOTD">http://groups.yahoo.com/group/QWOTD</a>.
 </p>
 
  [1]: http://groups.yahoo.com/group/QWOTD/

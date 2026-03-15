@@ -37,7 +37,7 @@ May Allah protect us from fitnah and allow us to be revivers of the sunnah. Amee
 </div>
 
 <p class="reference">
-  (1) Shaykh Muhammad Salih Al-Munajjid, Islam Question and Answer Website. 2 Mar. 2006 <<a href="http://63.175.194.25/index.php?ln=eng&#038;ds=qa&#038;lv=browse&#038;QR=1121&#038;dgn=4">http://63.175.194.25/index.php?ln=eng&ds=qa&lv=browse&QR=1121&dgn=4</a>>.
+  (1) Shaykh Muhammad Salih Al-Munajjid, Islam Question and Answer Website. 2 Mar. 2006 <<a href="http://63.175.194.25/index.php?ln=eng&#038;ds=qa&#038;lv=browse&#038;QR=1121&#038;dgn=4">http://63.175.194.25/index.php?ln=eng&ds=qa&lv=browse&QR=1121&dgn=4</a>.
 </p>
 
  [1]: /blog/gender-interaction-professionalism/

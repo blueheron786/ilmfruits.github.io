@@ -15,8 +15,7 @@ categories:
 One of the greatest gifts that Allah has blessed us with is the ability to make tawbah and istaghfar after committing sins continuously. He (سبحانه وتعالى) has taught our forefather Adam (عليه السلام) the words of repentance and He taught Rasoolullah (صلي الله عليه وسلم) a very special dua. The dua is called the sayyidul istaghfar, and it is one of the pearls from the Sunnah that we should know.
 
 > On the authority of Shaddad ibn Aws (رضالله عنهم) the Prophet (صلي الله عليه وسلم) said, “The chief of prayers for forgiveness is:
-> 
-> <dfn title="O Allah, You are my Lord, none has the right to be worshiped except You.">Allahumma anta Rabbi la ilaha illa Ant</dfn>
+>  <dfn title="O Allah, You are my Lord, none has the right to be worshiped except You.">Allahumma anta Rabbi la ilaha illa Ant</dfn>
   
 > <dfn title="You created me and I am You servant">Khalaqatani wa ana &#8216;abduka</dfn>
   
@@ -29,10 +28,8 @@ One of the greatest gifts that Allah has blessed us with is the ability to make 
 > <dfn title="and I acknowledge my sin">wa abu ooh bi zanbi</dfn>
   
 > <dfn title="so forgive me">faghfir lee</dfn> <dfn title="for verily none can forgive sin except You.">fa innahu la yaghfiruz zunooba illa Ant</dfn>
-> 
-> The Prophet (صلي الله عليه وسلم) added, <span class="gem">&#8220;If somebody recites it during the day with firm faith in it and dies on the same day before the evening, he will be from the people of Paradise and if somebody recites it at night with firm faith in it and dies before the morning he will be from the people of Paradise.&#8221;</span>
-> 
-> [Sahih Al-Bukhari]
+>  The Prophet (صلي الله عليه وسلم) added, <span class="gem">&#8220;If somebody recites it during the day with firm faith in it and dies on the same day before the evening, he will be from the people of Paradise and if somebody recites it at night with firm faith in it and dies before the morning he will be from the people of Paradise.&#8221;</span>
+>  [Sahih Al-Bukhari]
 
 The dua in Arabic:
 

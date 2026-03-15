@@ -37,7 +37,7 @@ And Allah (سبحانه وتعالى) says in the Qur&#8217;an:
 </div>
 
 <p class="reference">
-  [1] &#8220;Important Lessons From Ramadaan.&#8221; Islaam.Com. Jan. 1997. 24 Feb. 2007 <<a href="http://www.islaam.com/Article.aspx?id=143">http://www.islaam.com/Article.aspx?id=143</a>>.
+  [1] &#8220;Important Lessons From Ramadaan.&#8221; Islaam.Com. Jan. 1997. 24 Feb. 2007 <<a href="http://www.islaam.com/Article.aspx?id=143">http://www.islaam.com/Article.aspx?id=143</a>.
 </p>
 
 <p class="reference">

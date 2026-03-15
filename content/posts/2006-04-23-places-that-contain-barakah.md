@@ -42,11 +42,11 @@ May Allah (سبحانه وتعالى) allow us to make the best use of places of
 </div>
 
 <p class="reference">
-  (1) “Translation of Sahih Bukhari, Book 21: Prayer at Night (Tahajjud).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 23 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.281">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.281</a>>.
+  (1) “Translation of Sahih Bukhari, Book 21: Prayer at Night (Tahajjud).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 23 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.281">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/021.sbt.html#002.021.281</a>.
 </p>
 
 <p class="reference">
-  (2) “Translation of Sahih Muslim, Book 7: The Book of Pilgrimage (Kitab Al-Hajj), Chapter 90: The Merit of Praying in the Two Mosques, at Mecca and Medina.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 23 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/007.smt.html#007.3210">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/007.smt.html#007.3210</a>>.
+  (2) “Translation of Sahih Muslim, Book 7: The Book of Pilgrimage (Kitab Al-Hajj), Chapter 90: The Merit of Praying in the Two Mosques, at Mecca and Medina.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 23 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/007.smt.html#007.3210">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/muslim/007.smt.html#007.3210</a>.
 </p>
 
 <p class="reference">

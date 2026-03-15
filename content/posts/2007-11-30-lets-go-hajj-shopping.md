@@ -41,7 +41,7 @@ You can find more **amazing**, _expert_ Hajj advice on all things Hajj-related a
 </div>
 
 <p class="reference">
-  Muhammad Alshareef. HajjCoach.com (2007). Session 04 &#8211; Let&#8217;s Go Shopping! <<a href="http://www.hajjcoach.com/site.php/spgs/read/hajjcoach_session_04_-_lets/">http://www.hajjcoach.com/site.php/spgs/read/hajjcoach_session_04_-_lets/</a>>
+  Muhammad Alshareef. HajjCoach.com (2007). Session 04 &#8211; Let&#8217;s Go Shopping! <<a href="http://www.hajjcoach.com/site.php/spgs/read/hajjcoach_session_04_-_lets/">http://www.hajjcoach.com/site.php/spgs/read/hajjcoach_session_04_-_lets/</a>
 </p>
 
  [1]: http://www.hajjcoach.com

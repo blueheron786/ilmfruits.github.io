@@ -50,11 +50,11 @@ Wallahu ta&#8217;ala &#8216;alim. Just a reminder inshaAllah that this covers za
 </div>
 
 <p class="reference">
-  (1) “Partial Translation of Sunan Abu-Dawud, Book 9: Zakat (Kitab Al-Zakat).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 8 July 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/009.sat.html#009.1557">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/009.sat.html#009.1557</a>>.
+  (1) “Partial Translation of Sunan Abu-Dawud, Book 9: Zakat (Kitab Al-Zakat).” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 8 July 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/009.sat.html#009.1557">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/abudawud/009.sat.html#009.1557</a>.
 </p>
 
 <p class="reference">
-  (2) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>>.
+  (2) Khan, Muhsin, trans. “Quranic Realm.” <u>Islamic Network</u>. 12 May 2006 <<a href="http://quran.islamicnetwork.com/">http://quran.islamicnetwork.com/</a>.
 </p>
 
 <p class="reference">

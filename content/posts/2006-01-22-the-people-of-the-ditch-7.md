@@ -48,7 +48,7 @@ May Allah protect us from the trials of the dunya, the trial of the Dajjal and t
 </div>
 
 <p class="reference">
-  (1) “Chapter 52: Fighting for the Cause of Allah (Jihad).” Sahih Bukhari. USC-MSA Hadith Database. 22 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/052.sbt.html#004.052.266" /><a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/052.sbt.html#004.052.266">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/052.sbt.html#004.052.266</a>>.
+  (1) “Chapter 52: Fighting for the Cause of Allah (Jihad).” Sahih Bukhari. USC-MSA Hadith Database. 22 Jan. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/052.sbt.html#004.052.266" /><a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/052.sbt.html#004.052.266">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/052.sbt.html#004.052.266</a>.
 </p>
 
 <p class="reference">

@@ -39,4 +39,4 @@ May Allah (سبحانه وتعالى) grant us all a pure and white heart, prote
 </div>
 
   * Jum&#8217;Ah Khutbah. Ibrahim Hindy. Abu Huraira Center, North York, Ontario. 2008.
-  * &#8220;HADITH Sahih Muslim.&#8221; IslamTomorrow. 21 June 2008 <<http://www.islamtomorrow.com/books/sahih_muslim/Muslim.pdf>>. </ul>
+  * &#8220;HADITH Sahih Muslim.&#8221; IslamTomorrow. 21 June 2008 <<http://www.islamtomorrow.com/books/sahih_muslim/Muslim.pdf>. </ul>

@@ -34,5 +34,5 @@ So, what are we waiting for? May Allah make us of those who succeed in this tran
 </div>
 
 <p class="reference">
-  (1) Pickthall, Muhammad M., trans. Al-Qur&#8217;an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>>.
+  (1) Pickthall, Muhammad M., trans. Al-Qur&#8217;an Al-Kareem: Parallel Arabic text with English Translation. One Ummah Network. 28 Dec. 2005 <<a href="http://www.oneummah.net/quran/quran.html">http://www.oneummah.net/quran/quran.html</a>.
 </p>

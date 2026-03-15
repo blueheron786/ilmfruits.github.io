@@ -32,7 +32,7 @@ In any case, you benefit. Alhamdullilah.
 </div>
 
 <p class="reference">
-  &#8220;Etiquettes and Adab of Du&#8217;a.&#8221; Mutma&#8217;inaa. 2004. 16 Jan. 2006 <<a href="http://www.geocities.com/mutmainaa/dua1/dua_manner.html">http://www.geocities.com/mutmainaa/dua1/dua_manner.html</a>>.
+  &#8220;Etiquettes and Adab of Du&#8217;a.&#8221; Mutma&#8217;inaa. 2004. 16 Jan. 2006 <<a href="http://www.geocities.com/mutmainaa/dua1/dua_manner.html">http://www.geocities.com/mutmainaa/dua1/dua_manner.html</a>.
 </p>
 
  [1]: http://www.geocities.com/mutmainaa/dua1/dua_manner.html

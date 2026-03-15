@@ -44,7 +44,7 @@ Similarly, when Abu Dhar, may Allah be pleased with him, proclaimed shahada, the
 </div>
 
 <p class="reference">
-  “Translation of Sahih Bukhari, Book 56: irtues and Merits of the Prophet (pbuh) and his Companions.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 25 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/056.sbt.html#004.056.724">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/056.sbt.html#004.056.724</a><a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/056.sbt.html#004.056.724" />>.
+  “Translation of Sahih Bukhari, Book 56: irtues and Merits of the Prophet (pbuh) and his Companions.” <u>USC-MSA Compendium of Muslim Texts</u>. USC-MSA. 25 Apr. 2006 <<a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/056.sbt.html#004.056.724">http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/056.sbt.html#004.056.724</a><a href="http://www.usc.edu/dept/MSA/fundamentals/hadithsunnah/bukhari/056.sbt.html#004.056.724" />.
 </p>
 
 <p class="reference">

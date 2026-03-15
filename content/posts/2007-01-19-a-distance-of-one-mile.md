@@ -16,8 +16,7 @@ categories:
 In a very beautiful hadith, our beloved Prophet (صلي الله عليه وسلم) said: __
 
 > _“There are seven whom Allah will shade in His Shade on the Day when there is no shade except His Shade:_
-> 
->   1. _**a just ruler**;_
+>    1. _**a just ruler**;_
 >   2. _a **youth** who **grew up in the worship of Allah**, the Mighty and Majestic;_
 >   3. _a man whose heart is **attached to the mosques**;_
 >   4. _two men who **love each other for Allah’s sake**, meeting for that and parting upon that;_

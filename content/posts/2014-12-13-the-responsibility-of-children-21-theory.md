@@ -35,8 +35,8 @@ Scholars add, it is enough to leave your children ignorant and not teach them. W
 On the flip side, rasulullah (salallahu alayhi wa sallam) said:
 
 <p class="hadith">مَنْ عَلَّمَ عِلْمًا فَلَهُ أَجْرُ مَنْ عَمِلَ بِهِ لاَ يَنْقُصُ مِنْ أَجْرِ الْعَامِلِ</p>
-> 
-> The Prophet said: &#8220;Whoever teaches some knowledge will have the reward of the one who acts upon it, without that detracting from his reward in the slightest. ([Sunan Ibn Majah, book 1, hadith #246][2])
+
+>  The Prophet said: &#8220;Whoever teaches some knowledge will have the reward of the one who acts upon it, without that detracting from his reward in the slightest. ([Sunan Ibn Majah, book 1, hadith #246][2])
 
 Imagine the reward of teaching your children salah, of teaching them siyam, Qur&#8217;an, and good manners; you get their reward, and the reward of their children (whom they teach) and all your progeny until the day of judgement. That&#8217;s the real jackpot of mutli-level marketing!
 

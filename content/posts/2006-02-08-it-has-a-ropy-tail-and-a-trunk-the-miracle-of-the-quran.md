@@ -28,7 +28,7 @@ After all, Allah promised it to us, in Surah Baqarah?
 </div>
 
 <p class="reference">
-  (1) &#8220;Musaylimah&#8221;. Wikipedia. <<a href="http://en.wikipedia.org/wiki/Musaylimah">http://en.wikipedia.org/wiki/Musaylimah</a>>
+  (1) &#8220;Musaylimah&#8221;. Wikipedia. <<a href="http://en.wikipedia.org/wiki/Musaylimah">http://en.wikipedia.org/wiki/Musaylimah</a>
 </p>
 
 <p class="reference">
