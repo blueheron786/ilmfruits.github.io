@@ -21,6 +21,9 @@ params:
 theme: "mainroad"
 mainSections:
   - post
+services:
+  googleAnalytics:
+    ID: "G-QF4177VJ96"
 markup:
   goldmark:
     renderer:
