@@ -35,7 +35,7 @@ Notice Allah says he &#8220;forgives what is besides that&#8221;&#8211;that mean
 
 So what happens if you&#8217;re Muslim, and you commit an act of shirk? Does it destroy all your good deeds? Are you doomed to enter Jahannam, may Allah protect us all from that?
 
-&#8220;Allah does not forgive [shirk]&#8221; means Allah will not forgive the person if he doesn&#8217;t repent. <span class="gem">Repentance wipes out <strong>every sin, without exception</strong></span>. Many sahaba (may Allah be pleased with all of them) were mushrikoon when they accepted Islam.
+&#8220;Allah does not forgive [shirk]&#8221; means Allah will not forgive the person if he doesn&#8217;t repent. <span class="gem">Repentance wipes out <strong>every sin, without exception.</strong></span> Many sahaba (may Allah be pleased with all of them) were mushrikoon when they accepted Islam.
 
 The point is, if you commit shirk and **die without repenting**, Allah will **not forgive you**. If you fornicate, drink alcohol, consume interest, steal, and you **repent** afterward, Allah **will forgive you** inshaAllah. If you **don&#8217;t repent** from those sins and you **die**, Allah **_may_** forgive you. With shirk, if you **die** with it **unrepented**, Allah **will not** forgive you.
 
