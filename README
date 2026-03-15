@@ -3,3 +3,5 @@
 Built in [Hugo](https://github.com/gohugoio/hugo) (don't judge) circa 2018. Updated and slightly modernized in 2026.
 
 If you ever need to update this again, go Pelican. All the posts are in Markdown, so it should be an easy switch.
+
+`hugo serve` for the win. Copy `public` and publish it to the `master` branch.
