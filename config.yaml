@@ -8,3 +8,9 @@ params:
   AuthorName: "Ilm Seeker"
   SidebarRecentLimit: 99
 theme: "mainroad"
+mainSections:
+  - post
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

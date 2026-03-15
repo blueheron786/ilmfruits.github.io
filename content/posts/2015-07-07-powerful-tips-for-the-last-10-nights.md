@@ -15,7 +15,7 @@ tags:
 ---
 By Sheikh Tawfique Chowdhury
 
-[https://www.youtube.com/embed/6a2Jpkp6cNM?feature=oembed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6a2Jpkp6cNM?si=imBtS60RQB9QJcbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > 1. Do not let your &#8216;performance&#8217; until now affect your last 10 days. The moment of forgiveness could be today or anytime in the coming days! It is not all lost! If you sincerely wish it could have been better &#8211; Chin up and get ready to make it your best yet! Start with a positive, sincere intention!
 > 
@@ -43,8 +43,6 @@ By Sheikh Tawfique Chowdhury
 > 
 > 13. Patience is the Key: The last 10 days might be tiring. You might still have work or school. This is the time to bear all that hardship, and keep firm sabr. Think how Allah has blessed you with this tremendous opportunity that might NEVER come again in your life again. If you knew for sure that this was your last Ramadan , if you knew certainly that Jannah was up for grabs, wouldn&#8217;t you sprint for it no matter what it takes?
 > 
-> 14. This is most important: Keep husn adh-dhann bi Allah (good expectations from Allah). When you ask, remember you are asking the Most Generous King. If you hope for the best, He will give you the best. Don&#8217;t hold back. Trust in Him, pour out your heart in front of Him, and let no doubt, no barrier, no evil thoughts keep you away from ar-
-  
-> Rahman, ar-Raheem!
-> 
-> Allahumma ballighna laylatal qadr..
+> 14. This is most important: Keep husn adh-dhann bi Allah (good expectations from Allah). When you ask, remember you are asking the Most Generous King. If you hope for the best, He will give you the best. Don&#8217;t hold back. Trust in Him, pour out your heart in front of Him, and let no doubt, no barrier, no evil thoughts keep you away from Ar-Rahman, Ar-Raheem!
+
+Allahumma ballighna laylatal qadr..
