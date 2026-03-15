@@ -9,15 +9,14 @@ params:
   SidebarRecentLimit: 99
   highlightColor: "#08b"
   sidebar:
-    enabled: true
-    home: true
-    list: true
-    single: true
-widgets:
-  - search
-  - recent
-  - categories
-  - taglist
+    home: "right"
+    list: "right"
+    single: "right"
+    widgets:
+      - search
+      - recent
+      - categories
+      - taglist
 theme: "mainroad"
 mainSections:
   - post
