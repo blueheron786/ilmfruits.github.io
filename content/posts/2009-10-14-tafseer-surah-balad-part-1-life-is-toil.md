@@ -26,7 +26,7 @@ This is post #33 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Allah says:
 
-> لَا أُقْسِمُ بِهَذَا الْبَلَدِ 
+<p class="quran">لَا أُقْسِمُ بِهَذَا الْبَلَدِ</p>
 
 **Translation:** I swear by this city (Makkah) &#8230; [Surah Balad, verse 1]
 
@@ -34,7 +34,7 @@ Allah says:
 
 Then Allah says:
 
-> وَأَنتَ حِلٌّ بِهَذَا الْبَلَدِ 
+<p class="quran">وَأَنتَ حِلٌّ بِهَذَا الْبَلَدِ</p>
 
 **Translation:** And you, [O Muhammad], are free of restriction in this city &#8230; [verse 2]
 
@@ -44,7 +44,7 @@ It also indicates a time where the Prophet (salallahu alayhi wa sallam) was allo
 
 Then Allah says:
 
-> وَوَالِدٍ وَمَا وَلَدَ 
+<p class="quran">وَوَالِدٍ وَمَا وَلَدَ</p>
 
 **Translation:** And [by] the father and that which was born [of him] &#8230; [verse 3]
 
@@ -52,7 +52,7 @@ There are two opinions about what this verse means; one is that it means Adam (a
 
 Then Allah says:
 
-> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ 
+<p class="quran">لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ</p>
 
 **Translation:** We have certainly created man into hardship (kabad). [verse 4]
 
@@ -77,7 +77,7 @@ If not &#8230; well, as they say, &#8220;life just happens.&#8221;
 
 Then in verse five, Allah continues:
 
-> أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ 
+<p class="quran">أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</p>
 
 **Translation:** Does he think that never will anyone overcome him? [Surah Al-Balad, verse 5]
 
@@ -87,7 +87,7 @@ Qatadah, one tabi&#8217;ee, commented on this verse and mentions that it applies
 
 Allah (&#8216;azza wa jal) continues:
 
-> يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا 
+<p class="quran">يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا</p>
 
 **Translation:** He says, &#8220;I have spent (wasted) wealth in abundance.&#8221; [verse 6]
 
@@ -95,7 +95,7 @@ This is something we see very clearly in Israel&#8211;they have a budget of bill
 
 Then Allah says:
 
-> أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ 
+<p class="quran">أَيَحْسَبُ أَن لَّمْ يَرَهُ أَحَدٌ</p>
 
 **Translation:** Does he think that no one has seen him? [verse 7]
 

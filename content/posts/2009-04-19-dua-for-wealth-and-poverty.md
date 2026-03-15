@@ -25,7 +25,7 @@ In our last post, we talked about how the human race does taghaa if they see the
 
 Did you know, the Prophet Dawud (alayhi salaam) used to make du&#8217;a:
 
-> اللهمّا أعوذُ بِكَ مِن غُنَن يُطغِي و فِقرٍ يُنسِي
+<p class="dua"> اللهمّا أعوذُ بِكَ مِن غُنَن يُطغِي و فِقرٍ يُنسِي</p>
   
 > Allahumma a&#8217;oothu bika min ghunan yutghee wa fiqrin yunsee 
 

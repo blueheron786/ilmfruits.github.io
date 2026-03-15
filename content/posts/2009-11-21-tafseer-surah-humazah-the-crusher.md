@@ -24,7 +24,7 @@ This is post #36 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 In Surah Humazah, Allah (&#8216;azza wa jal) says:
 
-> وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ 
+<p class="quran">وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ</p>
 
 **Translation:** Woe to every scorner (humazah) and mocker (lumazah). [Surah Al-Humaza, verse 1].
 
@@ -46,9 +46,9 @@ For example, if there&#8217;s someone with really big ears, someone who&#8217;s 
 
 Then Allah (subhannahu wa ta&#8217;ala) mentions two more qualities of the humazah and lumazah individual:
 
-> الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
+<p class="quran">الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ</p>
   
-> يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ 
+<p class="quran">يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ</p>
 
 **Translation:** (The one) Who collects wealth and [continuously] counts it. He thinks that his wealth will make him immortal. [Suratal-Humazah, verses 2-3]
 
@@ -63,7 +63,7 @@ We see again and again in Juz &#8216;Amma, the theme of wealth, and the idea of 
 
 Allah says, about this mentality&#8211;the people who are humazah, and lumazah, and spend all their time collecting and counting their money, who think that they will live forever:
 
-> كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ 
+<p class="quran">كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ</p>
 
 **Translation:** _Kalla (no)!_ He will surely be thrown into the Crusher. [Verse 4]
 
@@ -73,9 +73,9 @@ Allah says, this person will be thrown into &#8230; The Crusher. And not just th
 
 Which begs the question: what _is_ The Crusher?
 
-> وَمَا أَدْرَاكَ مَا الْحُطَمَةُ
+<p class="quran">وَمَا أَدْرَاكَ مَا الْحُطَمَةُ</p>
   
-> نَارُ اللَّهِ الْمُوقَدَةُ 
+<p class="quran">نَارُ اللَّهِ الْمُوقَدَةُ</p>
 
 **Translation:** And what can make you know what is the Crusher? It is the fire of Allah , [eternally] fueled. [verses 5-6]
 
@@ -89,15 +89,15 @@ And it&#8217;s almost like, this human being spent their _entire life_, and at t
 
 Then Allah (&#8216;azza wa jal) mentions something terrifying about The Crusher. Something that should cause you wonder and sleepless lights of worry. Allah says:
 
-> الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ 
+<p class="quran">الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ</p>
 
 **Translation:** Which mounts directed at the hearts. [verse 7]
 
 This is not just passive fire. If you read up about Hellfire, it&#8217;s almost like a beast; it roars. It speaks. It ambushes. And here, we see that it _attacks_&#8211;it leaps upon the hearts. It attacks. What&#8217;s more:
 
-> إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ
+<p class="quran">إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ</p>
   
-> فِي عَمَدٍ مُّمَدَّدَةٍ 
+<p class="quran">فِي عَمَدٍ مُّمَدَّدَةٍ</p>
 
 **Translation:** Indeed, it (Hellfire) will be closed down upon them, In extended columns. [verses 8-9]
 

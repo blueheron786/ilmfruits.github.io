@@ -31,7 +31,7 @@ Therefore, we&#8217;re going to focus mostly on the linguistic meaning of the wo
 
 Allah (&#8216;azza wa jal) says:
 
-> عَمَّ يَتَسَاءَلُونَ 
+<p class="quran">عَمَّ يَتَسَاءَلُونَ</p>
 
 **Translation:** About what are they asking one another? [Surah An-Naba&#8217;, verse 1]
 
@@ -41,7 +41,7 @@ Yatasaa&#8217;aloon comes from sa&#8217;ala/yas&#8217;alu, which means to ask. T
 
 Verse two continues:
 
-> عَنِ النَّبَإِ الْعَظِيمِ 
+<p class="quran">عَنِ النَّبَإِ الْعَظِيمِ</p>
 
 **Translation:** About the great news &#8211; [Surah Naba, verse 2]
 
@@ -49,15 +49,15 @@ An-Naba (النَّبَإِ) means news; this is the word that gave the surah it
 
 Allah (&#8216;azza wa jal) continues:
 
-> الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ 
+<p class="quran">الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ</p>
 
 **Translation:** That over which they are in disagreement. [Verse 3]
 
 This verse hints at a reality&#8211;that people disagree about the Day of Judgment. Muslims believe in it, but non-Muslims don&#8217;t; and we argue over it. Then Allah says:
 
-> كَلَّا سَيَعْلَمُونَ
+<p class="quran">كَلَّا سَيَعْلَمُونَ</p>
   
-> ثُمَّ كَلَّا سَيَعْلَمُونَ 
+<p class="quran">ثُمَّ كَلَّا سَيَعْلَمُونَ</p>
 
 **Translation:** No! They are going to know.Then, no! They are going to know. [Verses 4-5]
 
@@ -69,7 +69,7 @@ The difference between ya&#8217;lawmuwn and ta&#8217;lamuwn is that the former i
 
 Then Allah (subhannahu wa ta&#8217;ala) continues:
 
-> أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا 
+<p class="quran">أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا</p>
 
 **Translation:** Have We not made the earth a resting place? [Verse 6]
 
@@ -77,17 +77,17 @@ The first part of this verse is interesting; it has an alif, which is an interro
 
 Then Allah says:
 
-> وَالْجِبَالَ أَوْتَادًا
+<p class="quran">وَالْجِبَالَ أَوْتَادًا</p>
   
-> وَخَلَقْنَاكُمْ أَزْوَاجًا
+<p class="quran">وَخَلَقْنَاكُمْ أَزْوَاجًا</p>
   
-> وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+<p class="quran">وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا</p>
   
-> وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+<p class="quran">وَجَعَلْنَا اللَّيْلَ لِبَاسًا</p>
   
-> وَجَعَلْنَا النَّهَارَ مَعَاشًا
+<p class="quran">وَجَعَلْنَا النَّهَارَ مَعَاشًا</p>
   
-> وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا 
+<p class="quran">وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا</p>
 
 **Translation:** And the mountains as stakes? And We created you in pairs. And made your sleep \[a means for] rest. And made the night as clothing. And made the day for livelihood. And constructed above you seven strong [heavens\] \[verses 7-12\]
 
@@ -103,7 +103,7 @@ Also, the seven heavens which are implicitly mentioned &#8212; all of the schola
 
 Then, Allah (&#8216;azza wa jal) says:
 
-> وَجَعَلْنَا سِرَاجًا وَهَّاجًا 
+<p class="quran">وَجَعَلْنَا سِرَاجًا وَهَّاجًا</p>
 
 **Translation:** And made [therein] a burning lamp. [Verse 13]
 
@@ -111,11 +111,11 @@ This is where the famous da&#8217;ee, Siraaj Wahhaj, picked his name out of. Thi
 
 Then, Allah says:
 
-> وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+<p class="quran">وَأَنزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا</p>
   
-> لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+<p class="quran">لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا</p>
   
-> وَجَنَّاتٍ أَلْفَافًا 
+<p class="quran">وَجَنَّاتٍ أَلْفَافًا</p>
 
 **Translation:** And sent down, from the rain clouds, pouring water, That We may bring forth thereby grain and vegetation. And gardens of entwined growth. [Verses 14-16]
 

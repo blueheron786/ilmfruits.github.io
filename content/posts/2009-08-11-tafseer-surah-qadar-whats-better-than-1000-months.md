@@ -43,15 +43,15 @@ O son of Adam! Dunya will avail you _nothing_ when you&#8217;re dead. You go to 
 
 So they asked, how can we compete with this man? And Allah revealed Surah Qadar:
 
-> إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ
+<p class="quran">إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ</p>
   
-> وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ
+<p class="quran">وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ</p>
   
-> لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
+<p class="quran">لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ</p>
   
-> تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ
+<p class="quran">تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ</p>
   
-> سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ 
+<p class="quran">سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ</p>
 
 **Translation:** Indeed, We sent the Qur&#8217;an down during the Night of Decree (Laylatul-Qadar). And what can make you know what is the Night of Decree? The Night of Decree is better than a thousand months. The angels and the Spirit descend therein by permission of their Lord for every matter. Peace it is until the emergence of dawn.[Surah Qadar]
 

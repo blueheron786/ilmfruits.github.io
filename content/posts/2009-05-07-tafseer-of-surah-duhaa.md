@@ -42,11 +42,11 @@ And so Allah revealed:
 
 In Surah Duhaa, Allah says:
 
-> وَالضُّحَى
+<p class="quran">وَالضُّحَى</p>
   
-> وَاللَّيْلِ إِذَا سَجَى
+<p class="quran">وَاللَّيْلِ إِذَا سَجَى</p>
   
-> مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى 
+<p class="quran">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى</p>
 
 **Translation:** By duhaa (the morning brightness after Fajr), and [by] the night when it covers with darkness, your Lord has not taken leave of you, [O Muúammad], nor has He detested [you].
 
@@ -60,9 +60,9 @@ What&#8217;s more, Allah _swears_ by duhaa&#8211;by the brightness of the day ri
 
 In ayahs four and five, Allah says:
 
-> وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى
+<p class="quran">وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى</p>
   
-> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى 
+<p class="quran">وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَى</p>
 
 **Translation:** And the Hereafter is better for you than the first [life]. And your Lord is going to give you, and you will be satisfied.
 
@@ -76,11 +76,11 @@ Yet Allah says here: tardaa, that he _will_ be pleased with what Allah gives him
 
 Then Allah continues:
 
-> أَلَمْ يَجِدْكَ يَتِيماً فَآوَى
+<p class="quran">أَلَمْ يَجِدْكَ يَتِيماً فَآوَى</p>
   
-> وَوَجَدَكَ ضَالّاً فَهَدَى
+<p class="quran">وَوَجَدَكَ ضَالّاً فَهَدَى</p>
   
-> وَوَجَدَكَ عَائِلاً فَأَغْنَى 
+<p class="quran">وَوَجَدَكَ عَائِلاً فَأَغْنَى</p>
 
 **Translation:** Did He not find you an orphan and give [you] refuge? And He found you lost and guided [you]? And He found you poor and made [you] self-sufficient?
 
@@ -94,11 +94,11 @@ And these verses are in a question form. Allah wants us to think about these thi
 
 So then what? What is the logical conclusion? Allah says:
 
-> فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ
+<p class="quran">فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ</p>
   
-> وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
+<p class="quran">وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ</p>
   
-> وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ 
+<p class="quran">وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ</p>
 
 **Translation:** So as for the orphan, do not oppress [him]. And as for the asker, do not repel [him]. And as for the favor of your Lord, report [it].
 

@@ -26,15 +26,15 @@ This is post #41 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 In the previous two posts, we discussed the first three quarters of this juz; now, we move into the final quarter. After describing some of the punishments of Hellfire, Allah says:
 
-> إِنَّ لِلْمُتَّقِينَ مَفَازًا
+<p class="quran">إِنَّ لِلْمُتَّقِينَ مَفَازًا</p>
   
-> حَدَائِقَ وَأَعْنَابًا
+<p class="quran">حَدَائِقَ وَأَعْنَابًا</p>
   
-> وَكَوَاعِبَ أَتْرَابًا
+<p class="quran">وَكَوَاعِبَ أَتْرَابًا</p>
   
-> وَكَأْسًا دِهَاقً
+<p class="quran">وَكَأْسًا دِهَاقً</p>
   
-> لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا 
+<p class="quran">لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا</p>
 
 **Translation:** Indeed, for the righteous is attainment/success &#8211; gardens and grapevines, and full-breasted [companions] of equal age, and a full cup. No ill speech will they hear therein or any falsehood. [Surah An-Naba&#8217;, verses 31-35]
 
@@ -48,21 +48,21 @@ And who&#8217;s promising this? Imagine if you get a cheque in the mail (or an u
 
 But in this case?
 
-> جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+<p class="quran">جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا</p>
   
-> رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا 
+<p class="quran">رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا</p>
 
 **Translation:** &#8211; [As] reward from your Lord, [a generous] gift [made due by] account, [From] the Lord of the heavens and the earth and whatever is between them, the Most Merciful. They possess not from Him [authority for] speech. [Surah Naba, verses 36-37]
 
 The reward is coming from no other than **the Lord of the heavens and the Earth.** The One who created all these things can surely deliver what He promised in these ayaat &#8212; this, and so much more.
 
-> يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا 
+<p class="quran">يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا</p>
 
 **Translation:** The Day that the Spirit and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct. [Surah Nabaa, verse 38]
 
 But to get there &#8212; you have to go through the Day of Judgement first. Every single human being will go through that great and terrible day; a day when even the angels, who did not sin once, and Ar-Ruh (Jibreel), will stand in silence. Nobody will speak that day out of turn.
 
-> ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا 
+<p class="quran">ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا</p>
 
 **Translation:** That is the True Day; so he who wills may take to his Lord a [way of] return. [Surah Naba&#8217;, verse 39]
 
@@ -70,7 +70,7 @@ That IS the promised day &#8212; Al-Yawm Al-Haqq. Subhanallah, when you recite t
 
 And the choice is yours &#8212; &#8220;fa man shaa,&#8221; so whoever wishes, they can go back to their Lord. And finally, the surah concludes with:
 
-> إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا 
+<p class="quran">إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا</p>
 
 **Translation:** Indeed, We have warned you of a near punishment on the Day when a man will observe what his hands have put forth and the disbeliever will say, &#8220;Oh, I wish that I were dust!&#8221; [Surah Naba&#8217;, verse 40]
 

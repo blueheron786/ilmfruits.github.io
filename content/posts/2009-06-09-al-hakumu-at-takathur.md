@@ -29,9 +29,9 @@ tags:
 
 Allah says, in Surah At-Takaathur:
 
-> أَلْهَاكُمُ التَّكَاثُرُ
+<p class="quran">أَلْهَاكُمُ التَّكَاثُرُ</p>
   
-> حَتَّى زُرْتُمُ الْمَقَابِرَ 
+<p class="quran">حَتَّى زُرْتُمُ الْمَقَابِرَ</p>
 
 **Translation:** Competition in [worldly] increase diverts you, until you visit the graveyards. [Surah At-Takaathur, verses 1-2]
 
@@ -55,9 +55,9 @@ And these two verses, these are a shaming of the human being. That mutual rivalr
 
 Then Allah says:
 
-> كَلَّا سَوْفَ تَعْلَمُونَ
+<p class="quran">كَلَّا سَوْفَ تَعْلَمُونَ</p>
   
-> ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ 
+<p class="quran">ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ</p>
 
 **Translation:** _Kalla!_ You are going to know. Then _kalla!_ You are going to know. [Verses 3-4]
 
@@ -69,7 +69,7 @@ Thumma kalla, sawfa ta&#8217;lamoon&#8211;then, again, when al-qiyaam al-kubraa,
 
 Then Allah says:
 
-> كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ 
+<p class="quran">كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ</p>
 
 **Translation:** Kalla! If you only knew with knowledge of certainty&#8230; [verse 5]
 
@@ -79,9 +79,9 @@ How would your life be if you were certain about the Day of Repayment? About the
 
 Then Allah says:
 
-> لَتَرَوُنَّ الْجَحِيمَ
+<p class="quran">لَتَرَوُنَّ الْجَحِيمَ</p>
   
-> ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ 
+<p class="quran">ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ</p>
 
 **Translation:** You will surely see the Hellfire. Then you will surely see it with the eye of certainty. [verses 6-7]
 
@@ -95,7 +95,7 @@ And Allah says in verse 7, again, to drive the point home further: you WILL see 
 
 Then Allah (subhanahu wa ta&#8217;ala) concludes the surah with:
 
-> ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ 
+<p class="quran">ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ</p>
 
 **Translation:** Then you will surely be asked that Day about pleasure. [verse 8]
 

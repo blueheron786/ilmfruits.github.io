@@ -28,7 +28,7 @@ In Arabic, literally, this means &#8220;are you _greater_ than rasulullah.&#8221
 
 Al-Abbas said: 
 
-> رسول الله أكبر مني و لكن ولدت قبله
+<p class="hadith"> رسول الله أكبر مني و لكن ولدت قبله</p>
   
 > Rasulullah is greater than me, but I was born before him. 
 
@@ -38,7 +38,7 @@ The tabi&#8217;een used to cry. When asked why, they said &#8220;the sahaba beat
 
 But, they also said something interesting, which we should all write in gold:
 
-> من سار على الدرب، وصل
+<p class="hadith"> من سار على الدرب، وصل</p>
   
 > Whoever follows the path, will reach them 
 

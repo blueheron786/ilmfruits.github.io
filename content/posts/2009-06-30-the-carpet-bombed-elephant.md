@@ -37,9 +37,9 @@ So the king got angry &#8230; very angry. And he decided to destroy the Ka&#8217
 
 Allah says, in Surah Fil:
 
-> أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ
+<p class="quran">أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ</p>
   
-> أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ 
+<p class="quran">أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ</p>
 
 **Translation:** Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant? Did He not make their plan into misguidance? [Surah Fil, verses 1-2]
 
@@ -63,9 +63,9 @@ Just like that, the Allah raised the status of Quraysh.
 
 Allah continues, in verses 3-4:
 
-> وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+<p class="quran">وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ</p>
   
-> تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ 
+<p class="quran">تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ</p>
 
 **Translation:** And He sent against them birds in flocks (abaabeel), striking them with stones of hard clay,[verses 3-4]
 
@@ -85,7 +85,7 @@ _This_ is the army of Allah. And we see that he destroys great creations, with t
 
 Allah finishes with verse 5:
 
-> فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ
+<p class="quran">فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ</p>
 
 **Translation:** And He made them like eaten straw.
 

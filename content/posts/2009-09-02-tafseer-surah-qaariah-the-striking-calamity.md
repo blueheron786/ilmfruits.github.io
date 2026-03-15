@@ -25,11 +25,11 @@ This is post #30 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Allah says, in Surah Qaari&#8217;ah:
 
-> الْقَارِعَةُ
+<p class="quran">الْقَارِعَةُ</p>
   
-> مَا الْقَارِعَةُ
+<p class="quran">مَا الْقَارِعَةُ</p>
   
-> وَمَا أَدْرَاكَ مَا الْقَارِعَةُ 
+<p class="quran">وَمَا أَدْرَاكَ مَا الْقَارِعَةُ</p>
 
 **Translation:** The Striking Calamity &#8211; What is the Striking Calamity? And what can make you know what is the Striking Calamity? [Surah Qaariah, verses 1-3]
 
@@ -37,7 +37,7 @@ As we mentioned, the phrase in verse three&#8211;&#8220;wa maa adaraaka maa &#82
 
 But, Allah (azza wa jal) always gives us just a little glimpse of what this thing is that He says we will never be able to fully understand:
 
-> يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ
+<p class="quran">يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ</p>
 
 **Translation:** It is the Day when people will be like moths, dispersed, [Surah Al-Qaariah, verse 4]
 
@@ -47,7 +47,7 @@ Have you ever seen moths flying into a campfire? How they all jumble together an
 
 _That_ is how the human being will be on that day.
 
-> وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ 
+<p class="quran">وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ</p>
 
 **Translation:** And the mountains will be like wool, fluffed up. [Surah Qari&#8217;ah, verse 5]
 
@@ -57,9 +57,9 @@ _Obliterated._ Not just broken into pieces; but utterly obliterated. What will b
 
 But there&#8217;s hope! Allah says:
 
-> فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ
+<p class="quran">فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ</p>
   
-> فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ 
+<p class="quran">فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ</p>
 
 **Translation:** Then as for one whose scales are heavy [with good deeds], He will be in a pleasant life. [Surah Qaari&#8217;ah, verses 6-7].
 
@@ -71,9 +71,9 @@ Where do kids go when they&#8217;re scared? To their parents; or to their mother
 
 But Allah says:
 
-> وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ
+<p class="quran">وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ</p>
   
-> فَأُمُّهُ هَاوِيَةٌ 
+<p class="quran">فَأُمُّهُ هَاوِيَةٌ</p>
 
 **Translation:** But as for one whose scales are light, His refuge will be _Haawiyah_. [Surah Qariah, verses 8-9]
 
@@ -81,9 +81,9 @@ Literally, if you read the Arabic, it says &#8220;fa ummuhu haawiyah,&#8221; his
 
 Who is haawiyah?
 
-> وَمَا أَدْرَاكَ مَا هِيَهْ
+<p class="quran">وَمَا أَدْرَاكَ مَا هِيَهْ</p>
   
-> نَارٌ حَامِيَةٌ 
+<p class="quran">نَارٌ حَامِيَةٌ</p>
 
 **Translation:** And what can make you know what that is? (Meaning, we will never know what it is; but here&#8217;s a glimpse:) It is a Fire, intensely hot. [Surah Qaari&#8217;ah, verses 10-11]
 

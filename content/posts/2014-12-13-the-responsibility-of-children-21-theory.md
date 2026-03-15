@@ -34,7 +34,7 @@ Scholars add, it is enough to leave your children ignorant and not teach them. W
 
 On the flip side, rasulullah (salallahu alayhi wa sallam) said:
 
-> مَنْ عَلَّمَ عِلْمًا فَلَهُ أَجْرُ مَنْ عَمِلَ بِهِ لاَ يَنْقُصُ مِنْ أَجْرِ الْعَامِلِ
+<p class="hadith">مَنْ عَلَّمَ عِلْمًا فَلَهُ أَجْرُ مَنْ عَمِلَ بِهِ لاَ يَنْقُصُ مِنْ أَجْرِ الْعَامِلِ</p>
 > 
 > The Prophet said: &#8220;Whoever teaches some knowledge will have the reward of the one who acts upon it, without that detracting from his reward in the slightest. ([Sunan Ibn Majah, book 1, hadith #246][2])
 

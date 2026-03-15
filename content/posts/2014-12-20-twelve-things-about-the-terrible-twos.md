@@ -51,7 +51,7 @@ Remember that **behaviour changes over months, not overnight.** If something doe
 
 Finally, always always _always_ make good du&#8217;as for your children. As rasulullah (ﷺ) said:
 
-> ثَلاَثُ دَعَوَاتٍ مُسْتَجَابَاتٌ دَعْوَةُ الْمَظْلُومِ وَدَعْوَةُ الْمُسَافِرِ وَدَعْوَةُ الْوَالِدِ عَلَى وَلَدِهِ
+<p class="hadith">ثَلاَثُ دَعَوَاتٍ مُسْتَجَابَاتٌ دَعْوَةُ الْمَظْلُومِ وَدَعْوَةُ الْمُسَافِرِ وَدَعْوَةُ الْوَالِدِ عَلَى وَلَدِهِ</p>
     
 > Three supplications are responded to: The supplication of the oppressed, the supplication of the traveler, and **the supplication of the parent (for or) against his child.** ([Jaami&#8217; at-Tirmidhi][5]) 
 

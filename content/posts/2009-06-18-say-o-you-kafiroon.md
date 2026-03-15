@@ -24,17 +24,17 @@ Note: This is post #20 in our series on Tafseer of Juz &#8216;Amma (click the li
 
 In Surah Kafiroon, Allah says:
 
-> قُلْ يَا أَيُّهَا الْكَافِرُونَ
+<p class="quran">قُلْ يَا أَيُّهَا الْكَافِرُونَ</p>
   
-> لَا أَعْبُدُ مَا تَعْبُدُونَ
+<p class="quran">لَا أَعْبُدُ مَا تَعْبُدُونَ</p>
   
-> وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
+<p class="quran">وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ</p>
   
-> وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ
+<p class="quran">وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ</p>
   
-> وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ
+<p class="quran">وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ</p>
   
-> لَكُمْ دِينُكُمْ وَلِيَ دِينِ 
+<p class="quran">لَكُمْ دِينُكُمْ وَلِيَ دِينِ</p>
 
 **Translation:** Say, &#8220;O disbelievers, I do not worship what you worship. Nor are you worshippers of what I worship. Nor will I be a worshipper of what you worship. Nor will you be worshippers of what I worship. For you is your religion, and for me is my religion.&#8221; [Surah Kafiroon]
 

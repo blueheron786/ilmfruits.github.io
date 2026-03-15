@@ -27,7 +27,7 @@ This is post #43 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Continuing into our foray of tafseer of Surah An-Nazi&#8217;aat, we reach the story of Musa (alayhi salaam). Allah (&#8216;azza wa jal) says:
 
-> هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ 
+<p class="quran">هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ</p>
 
 **Translation:** Has there reached you the story of Moses? [Surah Naazi&#8217;aat, verse 15]
 
@@ -37,11 +37,11 @@ And here we see that &#8212; the word changes from &#8220;as-saahirah&#8221; to 
 
 Allah (subhannahu wa ta&#8217;ala) says:
 
-> هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ
+<p class="quran">هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ</p>
   
-> إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى
+<p class="quran">إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى</p>
   
-> اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ 
+<p class="quran">اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ</p>
 
 **Translation:** Has there reached you the story of Moses? &#8211; When his Lord called to him in the sacred valley of Tuwa, &#8220;go to Fir&#8217;awn (Pharaoh). Indeed, he has transgressed. [Surah An-Nazi&#8217;at, verses 15-17]
 
@@ -53,9 +53,9 @@ Notice also the _reason_ that Allah sent Musa to Fir&#8217;aun &#8212; because h
 
 And then:
 
-> فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ
+<p class="quran">فَقُلْ هَل لَّكَ إِلَىٰ أَن تَزَكَّىٰ</p>
   
-> وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ 
+<p class="quran">وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ</p>
 
 **Translation:** And say to him, &#8216;Would you [be willing to] purify yourself, and let me guide you to your Lord so you would fear [Him]?'&#8221; [Surah An-Nazi&#8217;aat, verses 18-19]
 
@@ -65,7 +65,7 @@ To _Fir&#8217;awn._ The one who claimed godhood. The one who slaughtered _legion
 
 Surely this is what Allah (&#8216;azza wa jal) meant when He said:
 
-> ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ 
+<p class="quran">ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ ۚ</p>
 
 **Translation:** Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. [Surah An-Nahl, verse 125]
 
@@ -75,15 +75,15 @@ Would you _care_ to purify yourself?
 
 The story continues:
 
-> فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ
+<p class="quran">فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ</p>
   
-> فَكَذَّبَ وَعَصَىٰ
+<p class="quran">فَكَذَّبَ وَعَصَىٰ</p>
   
-> ثُمَّ أَدْبَرَ يَسْعَىٰ
+<p class="quran">ثُمَّ أَدْبَرَ يَسْعَىٰ</p>
   
-> فَحَشَرَ فَنَادَىٰ
+<p class="quran">فَحَشَرَ فَنَادَىٰ</p>
   
-> فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ 
+<p class="quran">فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ</p>
 
 **Translation:** And he showed him the greatest sign, but Pharaoh denied and disobeyed. Then he turned his back, striving. And he gathered [his people] and called out, and said, &#8220;I am your most exalted lord.&#8221; [Surah An-Nazi&#8217;aat, verses 20-24]
 
@@ -95,9 +95,9 @@ Shaykh Noman (from Bayyinah) mentions that this is not the first time Fir&#8217;
 
 You can&#8217;t just make a claim like that and get away with it. Allah says:
 
-> فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ
+<p class="quran">فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ</p>
   
-> إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ 
+<p class="quran">إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰ</p>
 
 **Translation:** So Allah seized him in exemplary punishment for the last and the first [transgression]. Indeed in that is a warning for whoever would fear [Allah]. [Verses 25-26]
 

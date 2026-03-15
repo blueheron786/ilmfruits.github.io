@@ -27,7 +27,7 @@ tags:
 
 Allah says, in verse 3:
 
-> وَرَفَعْنَا لَكَ ذِكْرَكَ
+<p class="quran">وَرَفَعْنَا لَكَ ذِكْرَكَ</p>
 
 **Translation:** And raised high for you your repute.
 
@@ -37,7 +37,7 @@ One scholar mentioned, that this also applies to the sahaba&#8211;like Abu Bakr,
 
 Allah says, in Surah Inshrah, verse 7:
 
-> فَإِذَا فَرَغْتَ فَانصَبْ
+<p class="quran">فَإِذَا فَرَغْتَ فَانصَبْ</p>
 
 **Translation:** So when you have finished [your duties], then stand up [for worship]. [Surah Inshrah, verse 7]
 

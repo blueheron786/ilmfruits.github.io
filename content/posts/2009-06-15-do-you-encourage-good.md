@@ -23,11 +23,11 @@ tags:
 
 Allah says, in Surah Ma&#8217;oon:
 
-> أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ
+<p class="quran">أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ</p>
   
-> فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ
+<p class="quran">فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ</p>
   
-> وَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ 
+<p class="quran">وَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ</p>
 
 **Translation:** Have you seen the one who denies the Repayment? For that is the one who drives away the orphan, and does not encourage the feeding of the poor. [Surah Ma&#8217;oon, verses 1-3]
 

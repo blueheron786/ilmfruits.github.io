@@ -32,7 +32,7 @@ We&#8217;re going to digress a bit and jump back to Surah Takweer. This post is 
 
 Allah says, in surah Takweer:
 
-> إِذَا الشَّمْسُ كُوِّرَتْ 
+<p class="quran">إِذَا الشَّمْسُ كُوِّرَتْ</p>
 
 **Translation:** When the sun is _kuwwirat_ &#8230; [verse 1]
 
@@ -50,7 +50,7 @@ This is something scary&#8211;that you see the sun wrapped up, and losing its li
 
 <!--more-->
 
-> وَإِذَا النُّجُومُ انكَدَرَتْ 
+<p class="quran">وَإِذَا النُّجُومُ انكَدَرَتْ</p>
 
 **Translation:** And when the stars are _inkadarat_ &#8230; [verse 2]
 
@@ -60,9 +60,9 @@ And between these two&#8211;the sun, the most prominent feature of the day, and 
 
 But _there&#8217;s more_ &#8230;
 
-> وَإِذَا الْجِبَالُ سُيِّرَتْ
+<p class="quran">وَإِذَا الْجِبَالُ سُيِّرَتْ</p>
   
-> وَإِذَا الْعِشَارُ عُطِّلَتْ 
+<p class="quran">وَإِذَا الْعِشَارُ عُطِّلَتْ</p>
 
 **Translation:** And when the mountains are removed (meaning, when they move, like water moves), And when full-term she-camels are neglected, &#8230; [verse 3-4]
 
@@ -74,19 +74,19 @@ And when the pregnant she-camels, that symbol of money, are _neglected_ and _use
 
 What would make a person do that?
 
-> وَإِذَا الْوُحُوشُ حُشِرَتْ 
+<p class="quran">وَإِذَا الْوُحُوشُ حُشِرَتْ</p>
 
 **Translation:** And when the wild beasts are gathered &#8230; [verse 5]
 
 Hushirat means gathered; just like jam&#8217;aa; but here, hushirat means _herded together_, gathered by force. If you&#8217;ve ever seen like a huge flood, you might see two animals who are at each other&#8217;s necks normally, scrambling together on this little piece of land. They don&#8217;t even _look_ at each other! What would make wild animals do that?
 
-> وَإِذَا الْبِحَارُ سُجِّرَتْ
+<p class="quran">وَإِذَا الْبِحَارُ سُجِّرَتْ</p>
   
-> وَإِذَا النُّفُوسُ زُوِّجَتْ
+<p class="quran">وَإِذَا النُّفُوسُ زُوِّجَتْ</p>
   
-> وَإِذَا الْمَوْءُودَةُ سُئِلَتْ
+<p class="quran">وَإِذَا الْمَوْءُودَةُ سُئِلَتْ</p>
   
-> بِأَيِّ ذَنبٍ قُتِلَتْ 
+<p class="quran">بِأَيِّ ذَنبٍ قُتِلَتْ</p>
 
 **Translation:** And when the seas are filled with flame, and when the souls are paired (good with good people and bad with bad people), and when the girl [who was] buried alive is asked, for what sin she was killed? &#8230; [verses 6-9]
 
@@ -102,15 +102,15 @@ This same jahil culture exists today (to a lesser extent, from what I know) in m
 
 And this act is put on the same scale **as the destruction of the Earth at the end of time.** That&#8217;s how serious it is.
 
-> وَإِذَا الصُّحُفُ نُشِرَتْ
+<p class="quran">وَإِذَا الصُّحُفُ نُشِرَتْ</p>
   
-> وَإِذَا السَّمَاءُ كُشِطَتْ
+<p class="quran">وَإِذَا السَّمَاءُ كُشِطَتْ</p>
   
-> وَإِذَا الْجَحِيمُ سُعِّرَتْ
+<p class="quran">وَإِذَا الْجَحِيمُ سُعِّرَتْ</p>
   
-> وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+<p class="quran">وَإِذَا الْجَنَّةُ أُزْلِفَتْ</p>
   
-> عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ 
+<p class="quran">عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ</p>
 
 **Translation:** And when the pages are made public, and when the sky is stripped away, and when Hellfire is set ablaze, and when Paradise is brought near, every soul will [then] know what it has brought [with it]. [verses 10-14]
 

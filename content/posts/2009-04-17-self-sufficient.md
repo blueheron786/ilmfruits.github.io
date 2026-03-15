@@ -22,9 +22,9 @@ tags:
 
 Allah says, in ayahs 6-7 of Surah Iqraa:
 
-> كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى
+<p class="quran">كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَى</p>
   
-> أَن رَّآهُ اسْتَغْنَى 
+<p class="quran">أَن رَّآهُ اسْتَغْنَى</p>
 
 **Translation:** No! [But] indeed, man transgresses. Because he sees himself self-sufficient. [Surah Iqraa, verses 6-7]
 

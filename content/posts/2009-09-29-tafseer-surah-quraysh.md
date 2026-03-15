@@ -31,13 +31,13 @@ This is post #32 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 This post is chronologically out of order, since Surah Quraish was revealed before surah Qaari&#8217;ah; but insha&#8217;Allah khayr. Allah says:
 
-> لِإِيلَافِ قُرَيْشٍ
+<p class="quran">لِإِيلَافِ قُرَيْشٍ</p>
   
-> إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ
+<p class="quran">إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ</p>
   
-> فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ
+<p class="quran">فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ</p>
   
-> الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ 
+<p class="quran">الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ</p>
 
 **Translation:** For the accustomed security of the Quraysh &#8211; Their accustomed security [in] the caravan of winter and summer &#8211; Let them worship the Lord of this House, Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear. [Surah Quraysh, verses 1-4]
 

@@ -26,11 +26,11 @@ This is post #37 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Allah says, in Surah Tariq:
 
-> وَالسَّمَاءِ وَالطَّارِقِ
+<p class="quran">وَالسَّمَاءِ وَالطَّارِقِ</p>
   
-> وَمَا أَدْرَاكَ مَا الطَّارِقُ
+<p class="quran">وَمَا أَدْرَاكَ مَا الطَّارِقُ</p>
   
-> النَّجْمُ الثَّاقِبُ 
+<p class="quran">النَّجْمُ الثَّاقِبُ</p>
 
 **Translation:** By the sky and the night comer (At-Tariq), And what can make you know what is the night comer? It is the piercing star. [Surah At-Taariq, verses 1-3]
 
@@ -42,13 +42,13 @@ Why?
 
 Allah continues (skipping a verse):
 
-> فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ
+<p class="quran">فَلْيَنظُرِ الْإِنسَانُ مِمَّ خُلِقَ</p>
   
-> خُلِقَ مِن مَّاءٍ دَافِقٍ
+<p class="quran">خُلِقَ مِن مَّاءٍ دَافِقٍ</p>
   
-> يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
+<p class="quran">يَخْرُجُ مِن بَيْنِ الصُّلْبِ وَالتَّرَائِبِ</p>
   
-> إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ 
+<p class="quran">إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ</p>
 
 **Translation:** So let man observe from what he was created. He was created from a fluid, ejected, Emerging from between the backbone and the ribs. Indeed, Allah , to return him [to life], is Able. [Surah Tariq, verses 5-8]
 
@@ -62,9 +62,9 @@ And we intuitively understand this. If you think about manufacturing, what&#8217
 
 And then, Allah says:
 
-> يَوْمَ تُبْلَى السَّرَائِرُ
+<p class="quran">يَوْمَ تُبْلَى السَّرَائِرُ</p>
   
-> فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ 
+<p class="quran">فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ</p>
 
 **Translation:** The Day when secrets will be put on trial, Then man will have no power or any helper. [Verses 9-10]
 

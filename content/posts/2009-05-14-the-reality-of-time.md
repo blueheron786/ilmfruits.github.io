@@ -24,11 +24,11 @@ tags:
 
 Allah says, in Surah &#8216;Asr:
 
-> وَالْعَصْرِ
+<p class="quran">وَالْعَصْرِ</p>
   
-> إِنَّ الْإِنسَانَ لَفِي خُسْرٍ
+<p class="quran">إِنَّ الْإِنسَانَ لَفِي خُسْرٍ</p>
   
-> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ 
+<p class="quran">إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ</p>
 
 &#8220;By Time. Indeed, mankind is at loss. Except for those who have believed, done righteous deeds and advised each other to truth and advised each other to patience.&#8221; [Asr: 1-3]
 

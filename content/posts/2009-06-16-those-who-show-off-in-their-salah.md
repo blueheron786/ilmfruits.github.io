@@ -25,13 +25,13 @@ tags:
 
 In Surah Ma&#8217;oon, Allah says:
 
-> فَوَيْلٌ لِّلْمُصَلِّينَ
+<p class="quran">فَوَيْلٌ لِّلْمُصَلِّينَ</p>
   
-> الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ
+<p class="quran">الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ</p>
   
-> الَّذِينَ هُمْ يُرَاءُونَ
+<p class="quran">الَّذِينَ هُمْ يُرَاءُونَ</p>
   
-> وَيَمْنَعُونَ الْمَاعُونَ 
+<p class="quran">وَيَمْنَعُونَ الْمَاعُونَ</p>
 
 **Translation:** So woe to those who pray; those who are heedless of their prayer, those who make show [of their deeds]; And withhold [simple] assistance (al-ma&#8217;oon). [Surah Ma&#8217;oon, verses 4-7]
 
@@ -45,7 +45,7 @@ Are you sure?
 
 &#8230;ok, here goes: Allah says:
 
-> إن المنافقين يخادعون الله وهو خادعهم وإذا قاموا إلى الصلاة قاموا كسالى يراؤون الناس ولا يذكرون الله إلا قليل 
+<p class="quran">إن المنافقين يخادعون الله وهو خادعهم وإذا قاموا إلى الصلاة قاموا كسالى يراؤون الناس ولا يذكرون الله إلا قليل</p>
 
 **Translation:** Indeed, the hypocrites [think to] deceive Allah , but He is deceiving them. _And when they stand for prayer, they stand lazily, showing [themselves to] the people_ and not remembering Allah except a little &#8230; [Surah Nisaa, verse 142]
 

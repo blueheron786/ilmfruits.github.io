@@ -25,13 +25,13 @@ _This is post #23 in our series on Tafseer of Juz &#8216;Amma (click the link to
 
 Allah says, in Surah Tawheed, also known as Surah Ikhlas:
 
-> قُلْ هُوَ اللَّهُ أَحَدٌ
+<p class="quran">قُلْ هُوَ اللَّهُ أَحَدٌ</p>
   
-> اللَّهُ الصَّمَدُ
+<p class="quran">اللَّهُ الصَّمَدُ</p>
   
-> لَمْ يَلِدْ وَلَمْ يُولَدْ
+<p class="quran">لَمْ يَلِدْ وَلَمْ يُولَدْ</p>
   
-> وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ 
+<p class="quran">وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ</p>
 
 **Translation:** Say, &#8220;He is Allah , [who is] One, Allah , the Eternal Refuge [As-Samad], He neither begets (gives birth to) nor is born, Nor is there to Him any equivalent.&#8221; [Surah Ikhlas]
 

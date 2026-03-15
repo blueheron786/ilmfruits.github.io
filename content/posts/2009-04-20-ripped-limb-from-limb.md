@@ -21,9 +21,9 @@ tags:
 
 In verses 9 and 10 of Surah Iqraa, Allah says:
 
-> أَرَأَيْتَ الَّذِي يَنْهَى
+<p class="quran">أَرَأَيْتَ الَّذِي يَنْهَى</p>
   
-> عَبْداً إِذَا صَلَّى 
+<p class="quran">عَبْداً إِذَا صَلَّى</p>
 
 **Translation:** Have you seen the one who forbids a servant when he prays?
 

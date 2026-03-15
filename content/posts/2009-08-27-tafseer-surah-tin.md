@@ -31,11 +31,11 @@ This is post #28 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Allah says, in Surah At-Teen:
 
-> وَالتِّينِ وَالزَّيْتُونِ
+<p class="quran">وَالتِّينِ وَالزَّيْتُونِ</p>
   
-> وَطُورِ سِينِينَ
+<p class="quran">وَطُورِ سِينِينَ</p>
   
-> وَهَذَا الْبَلَدِ الْأَمِينِ 
+<p class="quran">وَهَذَا الْبَلَدِ الْأَمِينِ</p>
 
 **Translation:** By the fig and the olive. And [by] Mount SinaiAnd [by] this secure city [Makkah], &#8230; [Surah At-Tin, verses 1-3]
 
@@ -49,7 +49,7 @@ Toori-Sineen, refers to Mount Sinai&#8211;the place where Musa (alayhi salaam) s
 
 The maqsoom &#8216;alayh (thing testified to) is:
 
-> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ
+<p class="quran">لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ</p>
 
 **Translation:** We have certainly created man in the best of stature; [Surah Tin, verse 4]
 
@@ -63,7 +63,7 @@ And the imam, rahimahullah, quoted this ayah&#8211;that we created humans in the
 
 But there&#8217;s a catch! Allah continues:
 
-> ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
+<p class="quran">ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ</p>
 
 **Translation:** Then We return him to the lowest of the low, [verse 5]
 
@@ -71,7 +71,7 @@ This meaning is similar to Surah Al-Asr&#8211;that &#8220;all humans are in loss
 
 Then Allah spells out the recipe for success, how to be exceptional from this group of losers:
 
-> إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ
+<p class="quran">إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ</p>
 
 **Translation:** Except for those who believe and do righteous deeds, for they will have a reward uninterrupted. [verse 6]
 
@@ -79,9 +79,9 @@ Again, similar meaning to Surah Al-&#8216;Asr.
 
 Then the final two verses:
 
-> فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ
+<p class="quran">فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ</p>
   
-> أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ 
+<p class="quran">أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ</p>
 
 **Translation:** So what yet causes you to deny the Recompense? Is not Allah the most just of judges? [verses 7-8]
 

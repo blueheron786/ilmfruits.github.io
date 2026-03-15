@@ -28,11 +28,11 @@ tags:
 
 Allah says, in Surah Al-Kauthar:
 
-> إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ
+<p class="quran">إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ</p>
   
-> فَصَلِّ لِرَبِّكَ وَانْحَرْ
+<p class="quran">فَصَلِّ لِرَبِّكَ وَانْحَرْ</p>
   
-> إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ 
+<p class="quran">إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ</p>
 
 **Translation:** Indeed, We have granted you, [O Muhammad], al-Kawthar. So pray to your Lord and sacrifice [to Him alone]. Indeed, your enemy is the one cut off. [Surah Kawthar, verse 1-3]
 
@@ -46,7 +46,7 @@ In verse 1, Allah says: Inna &#8216;ataynaaka al-kawthar. These two words allude
 
 And Allah mentions, al-kawthar &#8230; kawthar of what? The &#8216;ulama mention two opinions: that kawthar is a river in Paradise. There&#8217;s an authentic hadith, where the Messenger of Allah says:
 
-> دَخَلْتُ الْجَنَّةَ فَإِذَا أَنَا بِنَهْرٍ حَافَتَاهُ خِيَامُ اللُّؤْلُؤِ، فَضَرَبْتُ بِيَدِي إِلَى مَا يَجْرِي فِيهِ الْمَاءُ، فَإِذَا مِسْكٌ أَذْفَرُ، قُلْتُ: مَاهَذَا يَا جِبْرِيلُ؟ قَالَ: هَذَا الْكَوْثَرُ الَّذِي أَعْطَاكَهُ اللهُ عَزَّ وَجَل
+<p class="hadith">دَخَلْتُ الْجَنَّةَ فَإِذَا أَنَا بِنَهْرٍ حَافَتَاهُ خِيَامُ اللُّؤْلُؤِ، فَضَرَبْتُ بِيَدِي إِلَى مَا يَجْرِي فِيهِ الْمَاءُ، فَإِذَا مِسْكٌ أَذْفَرُ، قُلْتُ: مَاهَذَا يَا جِبْرِيلُ؟ قَالَ: هَذَا الْكَوْثَرُ الَّذِي أَعْطَاكَهُ اللهُ عَزَّ وَجَل</p>
 
 **Translation:** The Messenger of Allah said: I entered Paradise and I came to a river whose banks had tents made of pearls. So I thrust my hand into its flowing water and found that it was the strongest (smell) of musk. So I asked, &#8220;O Jibreel! What is this?&#8221; He replied, &#8220;This is Al-Kawthar which Allah, the Mighty and Majestic has given you.&#8221; [[Saheeh Bukhari and Saheeh Muslim][1]]
 

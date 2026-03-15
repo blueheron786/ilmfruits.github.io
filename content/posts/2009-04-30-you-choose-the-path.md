@@ -24,13 +24,13 @@ tags:
 
 In Surah Layl, Allah says:
 
-> وَاللَّيْلِ إِذَا يَغْشَى
+<p class="quran">وَاللَّيْلِ إِذَا يَغْشَى</p>
   
-> وَالنَّهَارِ إِذَا تَجَلَّى
+<p class="quran">وَالنَّهَارِ إِذَا تَجَلَّى</p>
   
-> وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَى
+<p class="quran">وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَى</p>
   
-> إِنَّ سَعْيَكُمْ لَشَتَّى 
+<p class="quran">إِنَّ سَعْيَكُمْ لَشَتَّى</p>
 
 **Translation:** By the night when it covers, and [by] the day when it appears, and [by] He who created the male and female: _Indeed_, your paths are diverse. [Surah Layl, verses 1-4]
 
@@ -58,7 +58,7 @@ Then Allah proceeds to tell us about these two paths.
 
 In verse 5, Allah says:
 
-> أَمَّا مَن أَعْطَى وَاتَّقَى
+<p class="quran">أَمَّا مَن أَعْطَى وَاتَّقَى</p>
 
 **Translation:** As for he who gives and fears Allah &#8230;
 
@@ -66,9 +66,9 @@ We learn from this verse two things&#8211;that, again, the theme of wealth, whic
 
 Allah continues,
 
-> وَصَدَّقَ بِالْحُسْنَى
+<p class="quran">وَصَدَّقَ بِالْحُسْنَى</p>
   
-> فَسَنُيَسِّرُهُ لِلْيُسْرَى 
+<p class="quran">فَسَنُيَسِّرُهُ لِلْيُسْرَى</p>
 
 **Translation:** &#8230; and believes in the best [reward], We will ease him toward ease. [Surah Layl, verses 6-7]
 
@@ -80,13 +80,13 @@ Because Allah eases the easy path.
 
 Then Allah starts talking about other path:
 
-> وَأَمَّا مَن بَخِلَ وَاسْتَغْنَى
+<p class="quran">وَأَمَّا مَن بَخِلَ وَاسْتَغْنَى</p>
   
-> وَكَذَّبَ بِالْحُسْنَى
+<p class="quran">وَكَذَّبَ بِالْحُسْنَى</p>
   
-> فَسَنُيَسِّرُهُ لِلْعُسْرَى
+<p class="quran">فَسَنُيَسِّرُهُ لِلْعُسْرَى</p>
   
-> وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّى 
+<p class="quran">وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّى</p>
 
 **Translation:** But as for he who withholds and considers himself free of need, and denies the best [reward], We will ease him toward difficulty. And what will his wealth avail him when he falls? [Surah Layl, verses 8-11]
 
@@ -100,7 +100,7 @@ Even _if_ you steal one billion dollars, and get away with it, what will happen?
 
 Allah could&#8217;ve just said this &#8230; and left us. To burn. But He didn&#8217;t; in the next ayah, He says:
 
-> إِنَّ عَلَيْنَا لَلْهُدَى 
+<p class="quran">إِنَّ عَلَيْنَا لَلْهُدَى</p>
 
 **Translation:** Indeed, [wajib] upon Us is guidance.
 
@@ -110,13 +110,13 @@ Wallahu ta&#8217;ala &#8216;alam.
 
 There&#8217;es an interesting incident related to the last four verses? Allah says:
 
-> ذِي يُؤْتِي مَالَهُ يَتَزَكَّى
+<p class="quran">ذِي يُؤْتِي مَالَهُ يَتَزَكَّى</p>
   
-> وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَى
+<p class="quran">وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَى</p>
   
-> إِلَّا ابْتِغَاء وَجْهِ رَبِّهِ الْأَعْلَى
+<p class="quran">إِلَّا ابْتِغَاء وَجْهِ رَبِّهِ الْأَعْلَى</p>
   
-> وَلَسَوْفَ يَرْضَى 
+<p class="quran">وَلَسَوْفَ يَرْضَى</p>
 
 **Translation:** [He] who gives [from] his wealth to purify himself, and not [giving] for anyone who has [done him] a favor to be rewarded, but only seeking the countenance of his Lord, Most High. And he is going to be satisfied. [Surah Layl, verses 18-22]
 

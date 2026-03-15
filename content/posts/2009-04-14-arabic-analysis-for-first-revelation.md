@@ -26,15 +26,15 @@ tags:
 
 The first five ayaat of Surah Iqraa are:
 
-> اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ
+<p class="quran">اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ</p>
   
-> خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ
+<p class="quran">خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ</p>
   
-> اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
+<p class="quran">اقْرَأْ وَرَبُّكَ الْأَكْرَمُ</p>
   
-> الَّذِي عَلَّمَ بِالْقَلَمِ
+<p class="quran">الَّذِي عَلَّمَ بِالْقَلَمِ</p>
   
-> عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ 
+<p class="quran">عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ</p>
 
 Word-for-word translations are pretty common these days (like [this one][1], which has Surah Iqraa), so I&#8217;m going to touch lightly on that, and do a bit more grammar. Ready? Here goes!
 

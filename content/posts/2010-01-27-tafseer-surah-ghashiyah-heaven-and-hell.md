@@ -27,7 +27,7 @@ This is post #38 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Allah (&#8216;azza wa jal) says in Surah Al-Ghaashiyah:
 
-> هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ 
+<p class="quran">هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ</p>
 
 **Translation:** Has there reached you the report of the Overwhelming [event]? [Surah Ghashiya, verse 1]
 
@@ -35,7 +35,7 @@ The surah starts with a question, to make you think. The companions would say: A
 
 Al-Ghashiyah is, of course, &#8220;The Overwhelming&#8221; &#8212; one of the names of the Day of Judgment. Have you heard of it? Sure. But listen:
 
-> وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ
+<p class="quran">وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ</p>
 
 **Translation:** [Some] faces, that Day, will be humbled. [Surah Ghashiyah, verse 2]
 
@@ -45,7 +45,7 @@ And the indefinitivity of &#8220;wujoohun,&#8221; _some_ faces, gives us hope&#8
 
 But it&#8217;s too late for them.
 
-> عَامِلَةٌ نَّاصِبَةٌ
+<p class="quran">عَامِلَةٌ نَّاصِبَةٌ</p>
 
 **Translation:** Working [hard] and exhausted. [Surah Ghaashiyah, verse 3]
 
@@ -55,13 +55,13 @@ Or try going to Walmart at 11pm. You see the tiredness in the faces of people. O
 
 Then Allah says:
 
-> تَصْلَىٰ نَارًا حَامِيَةً
+<p class="quran">تَصْلَىٰ نَارًا حَامِيَةً</p>
   
-> تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ
+<p class="quran">تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ</p>
   
-> لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ
+<p class="quran">لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ</p>
   
-> لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ 
+<p class="quran">لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ</p>
 
 **Translation:** They will [enter to] burn in an intensely hot Fire. They will be given drink from a boiling spring. For them there will be no food except from a poisonous, thorny plant (dariy&#8217;), which neither nourishes nor avails against hunger. [Surah Ghashiyah, verses 5-8]
 
@@ -79,9 +79,9 @@ And all that eating and drinking, you&#8217;d think they&#8217;d slack their thi
 
 Then Allah says:
 
-> وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ
+<p class="quran">وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ</p>
   
-> لِّسَعْيِهَا رَاضِيَةٌ 
+<p class="quran">لِّسَعْيِهَا رَاضِيَةٌ</p>
 
 **Translation:** [Other] faces, that Day, will show pleasure. With their effort [they are] satisfied. [Surah Ghaashiyah, verses 9-10]
 
@@ -89,19 +89,19 @@ When you really understand and recite these verses, it&#8217;s almost like a bre
 
 So what do they get? What is this exclusive reward, for those who avoid Hellfire? Let&#8217;s take a quick peek at some of the things waiting for them and us, insha&#8217;Allah:
 
-> فِي جَنَّةٍ عَالِيَةٍ
+<p class="quran">فِي جَنَّةٍ عَالِيَةٍ</p>
   
-> لَّا تَسْمَعُ فِيهَا لَاغِيَةً
+<p class="quran">لَّا تَسْمَعُ فِيهَا لَاغِيَةً</p>
   
-> فِيهَا عَيْنٌ جَارِيَةٌ
+<p class="quran">فِيهَا عَيْنٌ جَارِيَةٌ</p>
   
-> فِيهَا سُرُرٌ مَّرْفُوعَةٌ
+<p class="quran">فِيهَا سُرُرٌ مَّرْفُوعَةٌ</p>
   
-> وَأَكْوَابٌ مَّوْضُوعَةٌ
+<p class="quran">وَأَكْوَابٌ مَّوْضُوعَةٌ</p>
   
-> وَنَمَارِقُ مَصْفُوفَةٌ
+<p class="quran">وَنَمَارِقُ مَصْفُوفَةٌ</p>
   
-> وَزَرَابِيُّ مَبْثُوثَةٌ 
+<p class="quran">وَزَرَابِيُّ مَبْثُوثَةٌ</p>
 
 **Translation:** In an elevated garden, wherein they will hear no unsuitable speech. Within it is a flowing spring. Within it are couches raised high. And cups put in place. And cushions lined up. And carpets spread around. [Surah Ghashiyah, verses 10-16]
 

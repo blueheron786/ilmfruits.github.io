@@ -29,7 +29,7 @@ In the previous post, we discussed the first 16 verses of Surah Naba&#8217;. The
 
 First, a recap&#8211;verse 16 talked about (a continuing discussion of) some of the blessings of Allah (&#8216;azza wa jal) in the dunya on the people. Then&#8211;_WHAM!_&#8211;verse 17 says:
 
-> إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+<p class="quran">إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا</p>
 
 **Translation:** Indeed, the Day of Judgement is an appointed time. [Surah An-Naba&#8217;, verse 17]
 
@@ -40,7 +40,7 @@ Suddenly, the topic shifts seamlessly into the Hereafter. Some gems to extract f
 
 Then Allah (subhannahu wa ta&#8217;ala) continues:
 
-> يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+<p class="quran">يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا</p>
 
 **Translation:** The Day the Horn is blown and you will come forth in multitudes. [Surah Naba, verse 18]
 
@@ -52,7 +52,7 @@ As-Soor means, well, a trumpet; what kind of trumpet is not important. The Messe
 
 After describing more of the horrors of the Day of Judgment, Allah says:
 
-> إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادً
+<p class="quran">إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادً</p>
 
 **Translation:** Indeed, Hell has been lying in wait. [Verse 21]
 
@@ -60,13 +60,13 @@ Mirsaad is a word known very well by the Arabs of that time &#8212; and by anyon
 
 A couple of verses later, describing the fare of the people of Hellfire, Allah says:
 
-> لَّابِثِينَ فِيهَا أَحْقَابًا
+<p class="quran">لَّابِثِينَ فِيهَا أَحْقَابًا</p>
   
-> لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+<p class="quran">لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا</p>
   
-> إِلَّا حَمِيمًا وَغَسَّاقًا
+<p class="quran">إِلَّا حَمِيمًا وَغَسَّاقًا</p>
   
-> جَزَاءً وِفَاقًا 
+<p class="quran">جَزَاءً وِفَاقًا</p>
 
 **Translation:** In which they will remain for ages [unending]. They will not taste therein [any] coolness or drink, Except scalding water and [foul] purulence &#8211; An appropriate recompense. [Surah An-Naba&#8217;, verses 23-26]
 
@@ -80,7 +80,7 @@ If you could interview those people now and ask them, &#8220;why are you here?&#
 
 Allah (&#8216;azza wa jal) explains:
 
-> إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا 
+<p class="quran">إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا</p>
 
 **Translation:** Indeed, they were not expecting an account. [Verse 27]
 
@@ -88,7 +88,7 @@ Hisaab is the taking-to-account that _every human being will go through_ on the 
 
 One of the things we learn from studying the verses addressing ahlul-kitaab, is that the verses don&#8217;t just address them; they address **anyone who has the same characteristics that they have.** So if _you&#8217;re_ Muslim, and you&#8217;re not worried about your hisaab &#8230; that&#8217;s a very dangerous place to be; Allah (&#8216;azza wa jal) says to these people who denied the truth:
 
-> فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا 
+<p class="quran">فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا</p>
 
 **Translation:** &#8220;So taste [the penalty], and never will We increase you except in torment.&#8221; [Surah An-Naba&#8217;, verse 30]
 

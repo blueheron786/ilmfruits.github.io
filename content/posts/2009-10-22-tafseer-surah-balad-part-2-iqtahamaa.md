@@ -32,11 +32,11 @@ This is post #34 in our series on Tafseer of Juz &#8216;Amma (click the link to 
 
 Continuing our discussion of Surah Balad, Allah (&#8216;azza wa jal) says:
 
-> أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
+<p class="quran">أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ</p>
   
-> وَلِسَانًا وَشَفَتَيْنِ
+<p class="quran">وَلِسَانًا وَشَفَتَيْنِ</p>
   
-> وَهَدَيْنَاهُ النَّجْدَيْنِ 
+<p class="quran">وَهَدَيْنَاهُ النَّجْدَيْنِ</p>
 
 **Translation:** Have We not made for him two eyes? And a tongue and two lips? And have shown him the two ways?[Surah Al-Balad, verses 8-10]
 
@@ -44,9 +44,9 @@ The word used for ways or paths is &#8220;najd.&#8221; Najd means a clear path, 
 
 Then Allah says:
 
-> فَلَا اقْتَحَمَ الْعَقَبَةَ
+<p class="quran">فَلَا اقْتَحَمَ الْعَقَبَةَ</p>
   
-> وَمَا أَدْرَاكَ مَا الْعَقَبَةُ 
+<p class="quran">وَمَا أَدْرَاكَ مَا الْعَقَبَةُ</p>
 
 **Translation:** But he has not broken through the difficult pass. And what can make you know what is [breaking through] the difficult pass? [verses 10-11]
 
@@ -62,11 +62,11 @@ So we need to do iqtahamaa of Al-&#8216;Aqabah. And we&#8217;ll never understand
 
 But here&#8217;s a glimpse:
 
-> فَكُّ رَقَبَةٍ
+<p class="quran">فَكُّ رَقَبَةٍ</p>
   
-> أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ
+<p class="quran">أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ</p>
   
-> يَتِيمًا ذَا مَقْرَبَةٍ 
+<p class="quran">يَتِيمًا ذَا مَقْرَبَةٍ</p>
 
 **Translation:** It is the freeing of a slave. Or feeding on a day of severe hunger, An orphan of near relationship. [verse 13-15]
 
@@ -76,7 +76,7 @@ And an orphan of near kin (aka a relative of yours) is someone who has the right
 
 Allah (&#8216;azza wa jal) continues:
 
-> أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+<p class="quran">أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ</p>
 
 **Translation:** Or a needy person in misery. [verse 16]
 
@@ -84,9 +84,9 @@ In the phrase &#8220;dhaa matraba,&#8221; we see in the latter word, turaab (dir
 
 And the final remark on Al-&#8216;Aqabah? The last thing mentioned to do?
 
-> ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ
+<p class="quran">ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ</p>
   
-> أُولَئِكَ أَصْحَابُ الْمَيْمَنَةِ 
+<p class="quran">أُولَئِكَ أَصْحَابُ الْمَيْمَنَةِ</p>
 
 **Translation:** And then being among those who believed and advised one another to patience and advised one another to compassion. Those are the companions of the right. [verses 17-18]
 
@@ -94,9 +94,9 @@ Nothing surprising here&#8211;a verse very similar to what we find in Surah Al-&
 
 Sounds difficult, right? Well, what&#8217;s the alternative?
 
-> وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ
+<p class="quran">وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ</p>
   
-> عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ 
+<p class="quran">عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ</p>
 
 **Translation:** But they who disbelieved in Our signs &#8211; those are the companions of the left. Over them will be fire closed in. [verses 19-20]
 

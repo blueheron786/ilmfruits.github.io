@@ -43,11 +43,11 @@ Imagine, now, the Prophet (salallahu alayhi wa sallam) sitting in his house, wai
 
 And Allah reveals &#8230;
 
-> عَبَسَ وَتَوَلَّى
+<p class="quran">عَبَسَ وَتَوَلَّى</p>
   
-> أَن جَاءَهُ الْأَعْمَى
+<p class="quran">أَن جَاءَهُ الْأَعْمَى</p>
   
-> وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى 
+<p class="quran">وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّى</p>
 
 **Translation:** He frowned and turned away. Because there came to him the blind man, [interrupting]. But what would make you perceive, [O Muhammad], that perhaps he might be purified? [Surah Abasa, verses 1-3]
 

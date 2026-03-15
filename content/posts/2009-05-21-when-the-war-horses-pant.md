@@ -24,15 +24,15 @@ tags:
 
 Allah begins Surah Aadiyaat by saying:
 
-> وَالْعَادِيَاتِ ضَبْحًا
+<p class="quran">وَالْعَادِيَاتِ ضَبْحًا</p>
   
-> فَالْمُورِيَاتِ قَدْحًا
+<p class="quran">فَالْمُورِيَاتِ قَدْحًا</p>
   
-> فَالْمُغِيرَاتِ صُبْحًا
+<p class="quran">فَالْمُغِيرَاتِ صُبْحًا</p>
   
-> فَأَثَرْنَ بِهِ نَقْعًا
+<p class="quran">فَأَثَرْنَ بِهِ نَقْعًا</p>
   
-> فَوَسَطْنَ بِهِ جَمْعًا 
+<p class="quran">فَوَسَطْنَ بِهِ جَمْعًا</p>
 
 **Translation:** By the &#8216;aadiyaat, when they pant, and the muwriyraat striking (when their hoves strike the ground and make sparks), and the mughiyraat, at dawn (when they raid), stirring up thereby [clouds of] dust, arriving thereby in the center collectively, &#8230;
 
@@ -60,7 +60,7 @@ And these ayahs don&#8217;t speak of corrupt horses going on an oppressive missi
 
 As with any oath, we always need to ask&#8211;ya Rabbi, what are you testifying _to?_ The answer is &#8230;
 
-> إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ 
+<p class="quran">إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ</p>
 
 **Translation:** Indeed, mankind, to his Lord, is ungrateful. [Surah &#8216;Aadiyaat, verse 6]
 
@@ -72,9 +72,9 @@ Notice also, even AFTER five verses of testification, Allah uses &#8220;inna,&#8
 
 Allah continues, in verses 7 and 8:
 
-> وَإِنَّهُ عَلَى ذَلِكَ لَشَهِيدٌ
+<p class="quran">وَإِنَّهُ عَلَى ذَلِكَ لَشَهِيدٌ</p>
   
-> وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ 
+<p class="quran">وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ</p>
 
 **Translation:** And indeed, he/He is to that a witness. And indeed he is, in love of wealth, intense.
 
@@ -90,7 +90,7 @@ Even millionaires &#8230; if you ask people, &#8220;how much money would you nee
 
 And where is all this going? Allah says,
 
-> أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ 
+<p class="quran">أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ</p>
 
 **Translation:** But does he not know that when the contents of the graves are poured forth? &#8230;
 
@@ -98,7 +98,7 @@ Muhammad Alshareef mentions regarding this ayah, that if you take a sister&#8217
 
 Then Allah says:
 
-> وَحُصِّلَ مَا فِي الصُّدُورِ 
+<p class="quran">وَحُصِّلَ مَا فِي الصُّدُورِ</p>
 
 **Translation:** And that within the breasts is obtained, &#8230;
 
@@ -112,7 +112,7 @@ If you have an orange, and you look at the outside&#8211;do you know what&#8217;
 
 On that day, when the hearts will be _peeled_&#8230;
 
-> إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ 
+<p class="quran">إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ</p>
 
 **Translation:** Indeed, their Lord with them, that Day, is [fully] Acquainted.
 

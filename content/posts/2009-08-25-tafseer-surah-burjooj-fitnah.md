@@ -27,13 +27,13 @@ This is post #27 in our series on Tafseer of Juz ‘Amma (click the link to see 
 
 Allah says, in Surah Al-Burooj:
 
-> وَالسَّمَاءِ ذَاتِ الْبُرُوجِ
+<p class="quran">وَالسَّمَاءِ ذَاتِ الْبُرُوجِ</p>
   
-> وَالْيَوْمِ الْمَوْعُودِ
+<p class="quran">وَالْيَوْمِ الْمَوْعُودِ</p>
   
-> وَشَاهِدٍ وَمَشْهُودٍ
+<p class="quran">وَشَاهِدٍ وَمَشْهُودٍ</p>
   
-> قُتِلَ أَصْحَابُ الْأُخْدُودِ 
+<p class="quran">قُتِلَ أَصْحَابُ الْأُخْدُودِ</p>
 
 **Translation:** By the sky containing great stars. And [by] the promised Day. And [by] the witness and what is witnessed. Cursed were the companions of the trench. [Surah Al-Buruj, verses 1-4]
 
@@ -55,9 +55,9 @@ Let&#8217;s see.
   
 Allah continues:
 
-> إِذْ هُمْ عَلَيْهَا قُعُودٌ
+<p class="quran">إِذْ هُمْ عَلَيْهَا قُعُودٌ</p>
   
-> وَهُمْ عَلَى مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ 
+<p class="quran">وَهُمْ عَلَى مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ</p>
 
 **Translation:** When they were sitting near it. And they, to what they were doing against the believers, were witnesses. And they resented them not except because they believed in Allah , Al-Aziz, Al-Hamid [Surah Burooj, verses 6-8]
 
@@ -75,7 +75,7 @@ And so they were destroyed.
 
 And then, a couple verses later, Allah says:
 
-> إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ
+<p class="quran">إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ</p>
 
 **Translation:** Indeed, those who have _tortured_ the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire. [Surah Burooj, verse 10]
 
@@ -89,7 +89,7 @@ Don&#8217;t do it. It&#8217;s very, very dangerous.
 
 And Allah issues another warning two verses later:
 
-> إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+<p class="quran">إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ</p>
 
 **Translation:** Indeed, the vengeance (_batsh_) of your Lord is severe. [Surah Burooj, verse 12]
 

@@ -30,7 +30,7 @@ In this post, we will insha&#8217;Allah do a word-for-word breakdown of each sur
 
 In the first ayah, Allah (subhannahu wa ta&#8217;ala) says:
 
-> لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ 
+<p class="quran">لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ</p>
 
 The first two words, laa uqsimu (لَا أُقْسِمُ) literally means &#8220;I do not swear.&#8221; Uqsimu is mudaari&#8217; mutakallim waahid, i.e. the single, gender-non-specific first person &#8220;I.&#8221; It appears to be on Baab I, but there&#8217;s a hint that it&#8217;s not&#8211;the dumma on the first letter. Check the comments insha&#8217;Allah for more clarification; the mudaari&#8217; is yuqsimu; it&#8217;s a four-letter root (aqsama اقسم) in maadi&#8217; (past-tense).
 
@@ -44,29 +44,29 @@ Precisely the same badal occurs in ayah #2&#8211;&#8220;anta hillun bi haadhal-b
 
 In ayah four, Allah says:
 
-> لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ 
+<p class="quran">لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ</p>
 
 I harped on this ayah quite a bit in the tafseer. Notice the linguistic emphasis&#8211;the use of lam (one emphasis), plus qad (another emphasis). This, from the words of Allah themselves (something we should pay attention to), makes us realize _just how important_ it is to understand this ayah.
 
 In ayah five, Allah says:
 
-> أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ 
+<p class="quran">أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ</p>
 
 A bit of more advanced grammar here &#8212; Allah says &#8220;lan yaqdira (لَّن يَقْدِرَ).&#8221; It&#8217;s not &#8220;lan yaqdiru&#8221; because lan modifies a mudaari&#8217; (present-tense) verb to become mansoob (with fatha) instead of it&#8217;s usual marfoo&#8217; (with damma). If you know this rule, it&#8217;s easier to remember the last vowel!
 
 Then, in verses eight to ten, Allah (&#8216;azza wa jal) says:
 
-> أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ
+<p class="quran">أَلَمْ نَجْعَل لَّهُ عَيْنَيْنِ</p>
   
-> وَلِسَانًا وَشَفَتَيْنِ
+<p class="quran">وَلِسَانًا وَشَفَتَيْنِ</p>
   
-> وَهَدَيْنَاهُ النَّجْدَيْنِ 
+<p class="quran">وَهَدَيْنَاهُ النَّجْدَيْنِ</p>
 
 If you notice, all the final words of all these verses end with -ayn, the majroor/mansoob form of the dual (eg. kitabaani&#8211;two books&#8211;becomes kitabayni). Regardless of why, listen to these three ayaat&#8211;they actually rhyme. Aside from the miracle of how Allah (&#8216;azza wa jal) made it rhyme _and_ made the meaning impressively impressive, shaykh Nouman Khan mentioned that this is how you can identify one discourse (discussion on one topic) from another in the Qur&#8217;an&#8211;by the use of rhyme schemes. Subhanallah, this is just one part of the Qur&#8217;an that you cannot ever grasp purely through translation.
 
 Skipping forward, in verse 14, Allah says:
 
-> أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ 
+<p class="quran">أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ</p>
 
 The word dhiy (ذِي) is actually the majroor form of dhuw (ذو). Dhuw is one of those &#8220;five&#8221; weird words that change their form to show the case&#8211;dhuw (owner of), fuw (mouth), akhun (brother), abu (father), and one more, if I recall. The marfoo&#8217; form is dhuw, the majroor is dhiy, and the mansoob is dhaa (ذا).
 

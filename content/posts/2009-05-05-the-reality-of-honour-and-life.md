@@ -30,9 +30,9 @@ tags:
 
 Allah says, in Surah Fajr:
 
-> فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ
+<p class="quran">فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ</p>
   
-> وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ 
+<p class="quran">وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ</p>
 
 **Translation:** And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, &#8220;My Lord has honored me.&#8221; But when He tries him and restricts his provision, he says, &#8220;My Lord has humiliated me.&#8221; [Surah Fajr, verses 15-16]
 
@@ -52,23 +52,23 @@ Notice &#8230; really notice, this person, what is his metric of honour or humil
 
 Then Allah says:
 
-> كَلَّا!
+<p class="quran">كَلَّا!</p>
 
 Kalla! A very _strong, emphatic_ no&#8211;the same word you use if your child pulls something hot off the stove. Allah says: **this understanding is wrong.** Dead wrong. And in ayah 20, Allah says:
 
-> وَتُحِبُّونَ الْمَالَ حُبّاً جَمّاً
+<p class="quran">وَتُحِبُّونَ الْمَالَ حُبّاً جَمّاً</p>
 
 **Translation:** And you love wealth with immense love.
 
 Again, the theme of wealth, appearing again and again. So where is this going? Allah continues:
 
-> كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكّاً دَكّاً
+<p class="quran">كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكّاً دَكّاً</p>
   
-> وَجَاء رَبُّكَ وَالْمَلَكُ صَفّاً صَفّاً
+<p class="quran">وَجَاء رَبُّكَ وَالْمَلَكُ صَفّاً صَفّاً</p>
   
-> وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّى لَهُ الذِّكْرَى
+<p class="quran">وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّى لَهُ الذِّكْرَى</p>
   
-> يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي 
+<p class="quran">يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي</p>
 
 _Kalla!_ When the earth has been leveled &#8211; pounded and crushed &#8211; and your Lord has come and the angels, rank upon rank, and brought [within view], that Day, is Hell &#8211; that Day, man will remember, but what good to him will be the remembrance? He will say, &#8220;Oh, I wish I had sent ahead [some good] for my life.&#8221; [Surah Fajr, verses 21-14]
 

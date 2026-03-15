@@ -29,7 +29,7 @@ One thing you probably didn&#8217;t know about this surah&#8211;when we say &#82
 
 Let&#8217;s dive into some of the tafseer. <!--more--> In ayah 9, Allah says: 
 
-> فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَى 
+<p class="quran">فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَى</p>
 
 **Translation:** So remind, if the reminder should benefit.
 
@@ -39,13 +39,13 @@ So _speak to people at a level they can understand._ If they ask you basic quest
 
 Then Allah goes on to describe _who_ benefits from reminders, and who doesn&#8217;t. Allah says:
 
-> سَيَذَّكَّرُ مَن يَخْشَى
+<p class="quran">سَيَذَّكَّرُ مَن يَخْشَى</p>
   
-> وَيَتَجَنَّبُهَا الْأَشْقَى
+<p class="quran">وَيَتَجَنَّبُهَا الْأَشْقَى</p>
   
-> الَّذِي يَصْلَى النَّارَ الْكُبْرَى
+<p class="quran">الَّذِي يَصْلَى النَّارَ الْكُبْرَى</p>
   
-> ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَى 
+<p class="quran">ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَى</p>
 
 **Translation:** He who fears [ Allah ] will be reminded. But the wretched one will avoid it &#8211; [He] who will [enter and] burn in the greatest Fire, neither dying therein nor living.
 
@@ -66,9 +66,9 @@ Imagine yourself there. Think about it. You could, right now, be reading about y
 
 Allah says:
 
-> بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا
+<p class="quran">بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا</p>
   
-> وَالْآخِرَةُ خَيْرٌ وَأَبْقَى 
+<p class="quran">وَالْآخِرَةُ خَيْرٌ وَأَبْقَى</p>
 
 **Translation:** But you prefer the worldly life, while the Hereafter is better and more enduring.
 

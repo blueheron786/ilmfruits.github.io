@@ -29,15 +29,15 @@ In this post, insha&#8217;Allah we will take a whirlwind tour of the first third
 
 Allah says:
 
-> وَالنَّازِعَاتِ غَرْقًا
+<p class="quran">وَالنَّازِعَاتِ غَرْقًا</p>
   
-> وَالنَّاشِطَاتِ نَشْطًا
+<p class="quran">وَالنَّاشِطَاتِ نَشْطًا</p>
   
-> وَالسَّابِحَاتِ سَبْحًا
+<p class="quran">وَالسَّابِحَاتِ سَبْحًا</p>
   
-> فَالسَّابِقَاتِ سَبْقًا
+<p class="quran">فَالسَّابِقَاتِ سَبْقًا</p>
   
-> فَالْمُدَبِّرَاتِ أَمْرًا 
+<p class="quran">فَالْمُدَبِّرَاتِ أَمْرًا</p>
 
 **Translation:** By those [angels] who extract with violence, and [by] those who remove with ease, and [by] those who glide [as if] swimming, and those who race each other in a race, and those who arrange [each] matter, &#8230; [Surah Nazi&#8217;at, verses 1-5]
 
@@ -53,13 +53,13 @@ All of these are _aqsaam_ (oaths), which is typical in Mecci surahs. What is All
 
 <!--more-->
 
-> يَوْمَ تَرْجُفُ الرَّاجِفَةُ
+<p class="quran">يَوْمَ تَرْجُفُ الرَّاجِفَةُ</p>
   
-> تَتْبَعُهَا الرَّادِفَةُ
+<p class="quran">تَتْبَعُهَا الرَّادِفَةُ</p>
   
-> قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+<p class="quran">قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ</p>
   
-> أَبْصَارُهَا خَاشِعَةٌ 
+<p class="quran">أَبْصَارُهَا خَاشِعَةٌ</p>
 
 **Translation:** On the Day the blast [of the Horn] will convulse [creation], there will follow it the subsequent [one]. Hearts, that Day, will tremble, their eyes humbled. [Surah An-Nazi&#8217;aat, ayahs 5-9]
 
@@ -67,7 +67,7 @@ Ayah six is the implied _maqsoom alayhi_ (the thing being sworn to): that you wi
 
 An interesting phrase is:
 
-> تَرْجُفُ الرَّاجِفَةُ
+<p class="quran">تَرْجُفُ الرَّاجِفَةُ</p>
 
 &#8220;Tarjifu raajifat&#8221; &#8212; the thing meant to rattle and shake (ar-rajifaat), shakes and rattles (tarjifu). In another verse, Allah says &#8220;tarjufu al-ardu wal-jibaalu&#8221; (the Earth and the mountains shake and rattle), so we know that&#8217;s what is being referred to.
 
@@ -75,7 +75,7 @@ But this profoundly points at **the nature of the Earth and the mountains.** The
 
 Verse seven says:
 
-> تَتْبَعُهَا الرَّادِفَةُ
+<p class="quran">تَتْبَعُهَا الرَّادِفَةُ</p>
 
 &#8220;Tatba&#8217;u raadifah&#8221; (ar-raadifah follows it): raadifah is the guy who&#8217;s sitting in the back of your car. Whatever happens to you, happens to him. The &#8216;ulama agree that ar-raajifah, the first shaking, is because of the first trumpet when everything in existence dies; and ar-raadifah is from the second trumpet, the resurrection.
 
@@ -83,17 +83,17 @@ Verse eight talks about hearts will tremble (waajifah) and shake on that day. Bu
 
 In verse nine, Allah says:
 
-> أَبْصَارُهَا خَاشِعَةٌ
+<p class="quran">أَبْصَارُهَا خَاشِعَةٌ</p>
 
 Khaashiyah is a fear that shows visibly on your face. And subhanallah, those people who did not pray and show khushoo&#8217; to Allah in the dunya, will have no choice but to show it in the akhirah.
 
 In the next three verses, Allah (&#8216;azza wa jal) says:
 
-> يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ
+<p class="quran">يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ</p>
   
-> أَإِذَا كُنَّا عِظَامًا نَّخِرَةً
+<p class="quran">أَإِذَا كُنَّا عِظَامًا نَّخِرَةً</p>
   
-> قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ 
+<p class="quran">قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ</p>
 
 **Translation:** They are [presently] saying, &#8220;Will we indeed be returned to [our] former state [of life]? Even if we should be decayed bones? They say, &#8220;That, then, would be a losing return.&#8221;
 
@@ -105,9 +105,9 @@ Verse 12 is almost a sarcastic mockery &#8212; &#8220;in that case, we&#8217;re 
 
 As if in answer to them, Allah (&#8216;azza wa jal) then says:
 
-> فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ
+<p class="quran">فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ</p>
   
-> فَإِذَا هُم بِالسَّاهِرَةِ 
+<p class="quran">فَإِذَا هُم بِالسَّاهِرَةِ</p>
 
 **Translation:** Indeed, it will be but one shout, and suddenly they will be [alert] upon the earth&#8217;s surface. [Surah An-Naziat, verses 13-14]
 

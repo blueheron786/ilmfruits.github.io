@@ -41,7 +41,7 @@ This doesn&#8217;t mean we leave off good deeds all together. It just means that
 
 It&#8217;s no wonder Allah says so emphatically in Surah ash-Shams:
 
-> وَالشَّمْسِ وَضُحَاهَا وَالْقَمَرِ إِذَا تَلَاهَا وَالنَّهَارِ إِذَا جَلَّاهَا وَاللَّيْلِ إِذَا يَغْشَاهَا وَالسَّمَاءِ وَمَا بَنَاهَا وَالْأَرْضِ وَمَا طَحَاهَا وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ أَفْلَحَ مَن زَكَّاهَا وَقَدْ خَابَ مَن دَسَّاهَا
+<p class="quran">وَالشَّمْسِ وَضُحَاهَا وَالْقَمَرِ إِذَا تَلَاهَا وَالنَّهَارِ إِذَا جَلَّاهَا وَاللَّيْلِ إِذَا يَغْشَاهَا وَالسَّمَاءِ وَمَا بَنَاهَا وَالْأَرْضِ وَمَا طَحَاهَا وَنَفْسٍ وَمَا سَوَّاهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا قَدْ أَفْلَحَ مَن زَكَّاهَا وَقَدْ خَابَ مَن دَسَّاهَا</p>
   
 > By the sun and its brightness. And [by] the moon when it follows it. And [by] the day when it displays it. And [by] the night when it covers it. And [by] the sky and He who constructed it. And [by] the earth and He who spread it. And [by] the soul and He who proportioned it and inspired it [with discernment of] its wickedness and its righteousness. He has succeeded who purifies it and he has failed who instills it [with corruption].
 
@@ -55,7 +55,7 @@ So what are some of the common sins that may be holding us down and possibly cre
   * **Acts of the tongue:** unnecessarily talking, backbiting, gossiping, slandering
   * **Acts of the heart:** jealousy, envy, excessive love for the duniya, showing off
 
-> وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ
+<p class="quran">وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ</p>
   
 > And do not disgrace me on the Day they are [all] resurrected &#8211; The Day when there will not benefit [anyone] wealth or children, but only one who comes to Allah with a sound heart. [Shu&#8217;ara&#8217; 87-89]
 
